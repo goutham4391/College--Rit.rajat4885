@@ -1,0 +1,2452 @@
+body{font-family: 'Montserrat', sans-serif;}
+html {overflow-x: hidden;}
+li::first-letter, p::first-letter{text-transform: capitalize}
+
+/*.front span{text-transform: uppercase !important} */
+a{color: #f36e21;font-weight: 500;}
+a:focus, a:hover {color: #000000;}
+b, strong {font-weight: 500;}
+p {color: #666666;font-size: 17px;line-height: 30px;font-weight: 300; margin-bottom: 10px; margin-top: 10px; text-align: justify}
+.page-node-134 p{line-height: 25px !important; text-align: left;}
+#navbar > .container { background: #fff; }
+.navbar-fixed-top-0{position: fixed; top: 0px; left: 0;right: 0;}
+.nav>li>a:focus, .nav>li>a:hover{background: transparent;}
+#header{z-index: 10000;}
+.navbar-brand{height: auto !important;}
+#topbar li a{padding-bottom: 5px !important; padding-top: 5px !important;}
+#banner .tab-content h3{ font-family: 'PT Serif', serif; font-style: italic;font-weight: 700; font-size: 26px;  color: #ffffff;}
+#banner .tab-content h1{font-family: 'Montserrat', sans-serif; font-weight: 700;font-size: 50px; color: #ffffff;}
+#banner .tab-content h1 span{font-weight: 300;}
+#block-views-sliders-block .view-id-sliders #flexslider_views_slideshow_main_sliders-block_1 video{width: 100% !important; height: 100% !important;}
+#views_slideshow_controls_text_sliders-block_1{display: none;}
+.nav-tabs>li>a{font-weight: 600; font-size: 15px; border:none;border-radius: 0; padding: 15px 20px; background: transparent; text-align: center;}
+.nav-tabs>li>a:hover{background: transparent;  border:none;}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover{ border:none; background: transparent;border: none;}
+.nav-tabs>li.active::after{content: ""; width: 100%; height: 4px; display: block; background: #87080e;  position: absolute;}
+.nav-tabs{border: none; text-align: center;}
+.menu.nav.navbar-nav .leaf{float: left; list-style-type: none;}
+.navbar-header .logo {float: left; max-width: 100%; height: auto;padding: 10px 15px 24px 15px;;font-size: 18px; line-height: 20px; margin:0;}
+.navbar-header .logo img{height:auto;display:block; max-width:100%; }
+ul.menu.nav.navbar-nav { margin: 0px;}
+.navbar-default .navbar-toggle {border:none;}
+.navbar-default .navbar-toggle .icon-bar {background: #f36e21;}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {background:none;}
+section#block-views-sliders-block {margin-top: -45px;}
+.flex-nav-container {margin:0;}
+.flexslider {margin:0;border:none;}
+#navbar-collapse{float:right; padding: 0 !important; }
+
+#navbar-collapse #nice-menu-2 li{background-color: transparent !important;  border: none !important;}
+
+#navbar-collapse #nice-menu-2 li a {font-size: 16px !important;}
+
+
+#navbar-collapse #nice-menu-2 li ul li {padding: 5px 20px !important;background-color: rgba(255,255,255,0.74)!important;  border: none !important; width: 308px;}
+
+#navbar-collapse #nice-menu-2 li:last-child ul li {padding: 5px 20px !important;background-color: rgba(255,255,255,0.74)!important;  border: none !important; width: 100%;}
+
+#navbar-collapse #nice-menu-2 ul { top: 5.2em; left: -1px; border: 0;  border-top: 0px solid #ccc;  margin-right: 0;}
+
+
+
+
+
+
+.language-switcher-locale-url{display: inline-block; padding: 0; margin: 0;}
+.language-switcher-locale-url li{list-style: none;}
+.language-switcher-locale-url li a{text-decoration: none;}
+#banner .banner-caption{position: absolute; bottom: 0; left: 0;right: 0;}
+.region-header h2.block-title {display: none;}
+.slides {max-height:700px; overflow:hidden;}
+.view-id-sliders .slides {
+    min-width: 100% !important;
+}
+.block.degree_title{text-align: center; color: #bbbbbb; font-size: 14px;}
+.block.degree_title .degree-title{text-transform: uppercase; font-size: 50px; margin: 0; color: #000;}
+.block.degree_title h2.block-title{margin: 0;}
+.block.degree_title .degree-title span{font-weight: bolder;}
+.tab-container{ background: #f36e21; padding: 20px 40px; width: 1536px !important;}
+.section-subtitle{font-family: 'PT Serif', serif; font-size: 22px; font-weight: 400;font-style: italic;text-align: center; color: #bbbbbb;}
+.section-title span{ font-weight: 300;}
+.section{padding: 100px 0;}
+#quicktabs-degree_programs{position: relative;}
+ul.quicktabs-tabs li {background: none;list-style-type: none; display: inline-block; white-space: nowrap;  padding: 20px 10px 0 0;  }
+ul.quicktabs-tabs{border-bottom: none; line-height: normal; text-align: center; padding: 0; margin-bottom: 60px;}
+ul.quicktabs-tabs li a{padding: 15px 20px;color: #f36e21;background: none !important;text-transform: uppercase; text-decoration:none;font-weight:600;display:block; border-bottom: 4px solid transparent;}
+ul.quicktabs-tabs li:hover a{background: none !important;}
+ul.quicktabs-tabs li.active a{color: #666666; border-color:#f36e21; background: none !important; display:inline-block;}
+#block-quicktabs-degree-programs .quicktabs-wrapper {margin:auto; position:static;}
+.contant-tabs ul.quicktabs-tabs li a{padding: 8px 20px; font-size: 17px;}
+#quicktabs-degree_programs:after {content: '';background: url(../../../../../../rit/sites/default/files/photoadv/diploma.html) no-repeat;display: block; position: absolute;right: 0;bottom:0;width: 300px;height: 297px; z-index: -1;}
+.view-id-degree_programs .view-content .views-field{ position:relative;}
+.form-group {margin-top: 30px;}
+.btn-default {color: #ffffff; padding: 0px 22px; background: #f36e21;border-radius: 0;margin-right: 15px;border: none;text-transform: uppercase;line-height: 54px;font-size: 15px;}
+.view-id-degree_programs .view-content .views-field .degree-box a{padding: 80px 102px;text-decoration: none;color: #000;font-weight: bold;}
+.degree_image {position: static; right: 100px; top: 1350px;}
+.block.admission_title {text-align: center; color: #bbbbbb; font-size: 14px; padding-top: 114px; background: rgb(248, 247, 237);}
+.region-header .block.admission_title { background:none;  padding-top:0;}
+.degree_image h2{ display: none;}
+.degree_image p{ display: inline-block;}
+#quicktabs-tabpage-degree_programs-0 table.views-view-grid{ padding: 0px 140px; z-index: 999; position: relative;}
+#degree-programs .nav-tabs{ width: fit-content; width: -webkit-fit-content; width: -mox-fit-content; width: -o-fit-content;  margin: auto;}
+#degree-programs .nav-tabs>li.active::after{ background: #f36e21;}
+#degree-programs .nav-tabs>li>a{ color: #f36e21;  text-transform: uppercase;  font-size: 14px;  font-weight: 600;}
+.degree-box { position: relative;}
+.degree-container {position: absolute;top: 0;bottom: 0;left: 0;text-align: center;right: 0;vertical-align: middle; overflow: hidden;transition: .5s ease;}
+div#quicktabs-container-admissions {margin-top: 25px;position:relative;}
+.degree-box:hover .views-field.views-field-description .field-content p {display: block !important; background: transparent;}
+.degree-box .degree-container {background: transparent !important;height: auto;color: white;font-size: 12px;position: absolute;top: 50px;font-size: 19px;color: #000000;left: 50%;transform: translate(-50%, -50%);    -ms-transform: translate(-50%, -50%);  text-align: center; width: 100%;}
+.page-heading {font-size: 36px;line-height: 40px; margin: 40px 0; padding: 0;font-weight: 300;}
+p.text-degree {display: block !important; font-size: 22px; color: #000000; padding:30px 0px;}
+#quicktabs-tabpage-degree_programs-0 .views-field.views-field-description .field-content p{display: none; position: absolute; top: -168px !important; height: auto;top: 0;}
+#degree-programs .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover{ color: #666666;}
+#degree-programs .tab-content{ margin-top: 40px;}
+.admission-image {float: left;width: 33.33%; display: block;  z-index: -9; padding:0 15px 0 0;}
+.admission-box { width: 73%;  padding: 55px 70px; float: left; background: #fff; display: inline-block;  position: absolute; margin-left: -6.3%;}
+.admission-desc p:last-child {margin-top: 30px;margin-bottom: 0;}
+.admission-image img.img-responsive {width: 100%;}
+.admission-desc{idth: 50%;  float: left;padding-right: 30px;}
+.admission_title .block-title{ margin:0;}
+.admission_title p{display: none !important;}
+#block-quicktabs-admissions h2.block-title{text-align: center; margin: 0;font-size: 50px;text-transform: uppercase;font-weight: 800; margin-bottom: 40px;}
+.homebox-type1 .item-list ul { margin:0px;padding:0px;}
+.homebox-type1 .item-list ul li {list-style:none;}
+.homebox-type1 .item-list ul li:nth-child(5n+1) {clear:both;}
+.homebox-type1 .views-row-1 .course-title { background-image: url(../images/mech_eng.png);}
+.homebox-type1 .views-row-2 .course-title {background-image: url(../images/mech_eng.png);}
+.homebox-type1 .views-row-3 .course-title {background-image: url(../images/micro-elec-eng.png);}
+.homebox-type1 .views-row-4 .course-title {background-image: url(../images/industrial_eng.png);}
+.homebox-type1 .views-row-5 .course-title { background-image: url(../images/computing_security.png);}
+.homebox-type1 .views-row-6 .course-title { background-image: url(../images/computing_and_it.png);}
+.homebox-type1 .views-row-7 .course-title { background-image: url(../images/management.png);}
+.homebox-type1 .views-row-8 .course-title {background-image: url(../images/inter_business.png);}
+.homebox-type1 .views-row-9 .course-title { background-image: url(../images/marketing.png);}
+.homebox-type1 .views-row-10 .course-title {background-image: url(../images/finance.png);}
+.homebox-type1 .item-list ul li p { color:#ffffff;}
+.homebox-type1 .course-title{padding: 10px;}
+.course-box { position:relative;}
+.course-desc{position: absolute; bottom: 0; left: 0; right: 0; background-color: #f36e21;  overflow: hidden; width: 100%; height: 0; transition: .5s ease;}
+.course-desc .course-desc-container{ color: white;font-size: 12px;position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);-ms-transform: translate(-50%, -50%);text-align: center;width: 100%;padding: 5px;}
+.course-desc .course-desc-container a{color:#ffffff;text-transform: uppercase;font-weight: 500;}
+.course-box:hover .course-desc {height: 100%;}
+.margin-t-30 {margin: 30px 0 0 0;}
+.mech-eng{background-image: url(../images/mech_eng.png);}
+.elec-eng{background-image: url(../images/mech_eng.png);}
+.micro-elec-eng{background-image: url(../images/micro-elec-eng.png);}
+.industrial-eng{background-image: url(../images/industrial_eng.png);}
+.comp-security{background-image: url(../images/computing_security.png);}
+.comp-it{background-image: url(../images/computing_and_it.png);}
+.management{background-image: url(../images/management.png);}
+.inter-business{background-image: url(../images/inter_business.png);}
+.marketing{background-image: url(../images/marketing.png);}
+.finance{background-image: url(../images/finance.png);}
+#admissions{background: transparent; padding-bottom: 0;}
+#admissions .nav-tabs{width: fit-content; width: -webkit-fit-content;width: -mox-fit-content; width: -o-fit-content; margin: auto;}
+#admissions .nav-tabs>li.active::after{background: #f36e21;}
+#admissions .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover{color: #666666;}
+#admissions .tab-content{margin-top: 70px;}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {background-color: transparent;}
+a:hover{text-decoration: none;}
+#career{background: url("../images/career-and-placement.png") bottom right no-repeat; background-size:initial; margin-top: 100px;}
+.career-content-box p a{font-weight: 600;text-transform: uppercase;color: #f36e21;margin-top: 10px;display: inline-block;}
+.text-left{text-align: left !important;}
+.career-content-box::before {width: 100%;height: 100%; content: "";position: absolute; left: -80%; background: #f36e21; z-index: -1; top: 0; }
+#outreach-activities .nav-tabs{width: fit-content;width: -webkit-fit-content;width: -mox-fit-content;width: -o-fit-content; margin: auto;}
+#outreach-activities .nav-tabs>li.active::after{background: #f36e21;}
+#outreach-activities .nav-tabs>li>a{color: #f36e21; text-transform: uppercase; font-size: 14px; font-weight: 600;}
+#outreach-activities .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover{color: #666666;}
+#outreach-activities .tab-content{ margin-top: 30px;}
+.outreach-box{ position: relative; max-height: 140px;overflow: hidden; }
+.outreach-caption{position: absolute;left: 0;right: 0; margin: auto;bottom: 20px; color:#ffffff; font-weight: 500;text-align: center; }
+.outreach-box .outreach-caption  a{font-size: 22px}
+.outreach-desc{ position: absolute; bottom: 0;left: 0; right: 0; background-color: #f36e21; overflow: hidden; height: 0;transition: .5s ease;}
+.outreach-desc .outreach-desc-container{color: white; font-size: 12px; position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%); -ms-transform: translate(-50%, -50%);text-align: center;width: 100%;padding: 5px;}
+.outreach-desc .outreach-desc-container p {color:#ffffff;font-size: 14px;line-height: 18px;}
+.outreach-desc .outreach-desc-container a{color:#ffffff;text-transform: uppercase;font-weight: 500;}
+.outreach-box:hover .outreach-desc {height: 100%;}
+.margin-top-0{margin-top: 0;}
+#about-rit{background: url("../images/about-rit.png") bottom right no-repeat; background-size:contain;}
+.webform-progressbar{display: inline-block;}
+.webform-progressbar-outer {position: relative;border: none;width: 100%;height: 3px;margin: inherit;background: inherit;height: inherit !important;display: inline-block;}
+.webform-progressbar-page{background: inherit;}
+.webform-progressbar { margin-top: 0px;margin-bottom: 20px;}
+.webform-progressbar .webform-progressbar-page-label{font-size: 17px; font-weight:700}
+.page-header{display: inline-block; border-bottom: 0px}
+.webform-progressbar-page.completed{border-bottom: none}
+#webform-client-form-148 .webform-next{float: right}
+#block-views-media-center-block{ clear: both; background-color: #f8f7ed;}
+#media-center{background: #f8f7ed; padding-bottom: 0; margin-top: 100px;}
+#media-center .white-desc-box p a{ margin-top: 0;}
+.view-media-center { padding-bottom:10px;}
+.view-media-center .item-list ul{ padding: 0;}
+.view.view-id-media_center .views-view-grid .row-1 td{width: 195px;}
+.view.view-id-media_center .views-view-grid .row-1 td .views-field  .field-content img{ height: 170px;  width: 170px;}
+.view.view-id-media_center .views-view-grid .row-1 td .views-field .details-title{display: inline-block;}
+.view-media-details img{width:100%;}
+.details-desc-box{width: 113%; padding: 55px 70px; float: left; background: #fff; display: inline-block; position: absolute; margin-left: -15%;}
+.view-media-details .details-title{font-size: 36px;}
+.details-desc + a{ text-transform: uppercase;font-size: 17px;padding: 40px 0px; color: #f36e21;text-decoration: none;}
+.padding-0{padding: 0 !important;}
+.contact-data-container .container-fluid{ background: #f8f7ed;}
+.contact-data-container{ position: relative;}
+.map-content{ position: absolute;left: 0; right: 0; top: 0;}
+#contact {padding-bottom: 0;}
+.nav-tabs{ margin-bottom:30px;}
+#contact .nav-tabs>li.active:after{ background: #f36e21;}
+#contact .nav-tabs>li>a{color: #f36e21;text-transform: uppercase; font-size: 14px;font-weight: 600;}
+#contact .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover{color: #666666;}
+#contact .tab-content{ margin-top: 40px;}
+#contact .nav-tabs{ width: fit-content; width: -webkit-fit-content; width: -mox-fit-content;  width: -o-fit-content;  margin: auto;}
+.side-menu {padding-top: 54px;}
+.side-menu:before {content: " ";  position: absolute; top: 0px; left: -43%; background: #f8f7ed; width:577px; height: calc(100% + 198px);z-index: -1;}
+.page-user-edit .side-menu:before {content: " ";  position: absolute; top: 0px; left: -44%; background: #f8f7ed; width:577px; height: calc(100% + 198px);z-index: -1;}
+#quicktabs-container-outreach_activities .views-row-1, #quicktabs-container-outreach_activities .views-row-4, #quicktabs-container-outreach_activities .views-row-5{width: 33%; display:inline-block;}
+#quicktabs-container-outreach_activities .views-row-2, #quicktabs-container-outreach_activities .views-row-3 {width: 16.50%; display: inline-block}
+.region.region-content { padding-left: 40px;}
+.region-gmapblock {margin-top: 0; position:relative;}
+.region-gmapblock .gmap-map{width: 100% !important;height:710px !important;}
+#block-quicktabs-enquiry-contact {position: absolute;right: 0px;padding: 0px 150px 20px 85px;background-color: #f8f7ed;z-index: 1; bottom: 0; top: 97px;}
+.footer-map section .form-item .form-control{height: 40px;}
+.footer-map section .form-group{margin-bottom: 0px}
+.footer-map ul.quicktabs-tabs li a {padding: 15px 20px 7px;}
+#quicktabs-enquiry_contact .quicktabs-tabs {text-align:left;margin-bottom: 10px;}
+#block-quicktabs-enquiry-contact .webform-client-form input.form-text {border: none;border-bottom: 1px solid #d3d3cb;padding-bottom: 6px; box-shadow:none; border-radius:0;background: transparent;font-family: 'PT Serif', serif;
+    font-style: italic; color: #666666; font-size: 14px; font-weight: 600;}
+    #block-quicktabs-enquiry-contact .webform-client-form .form-actions { padding-left: 15px;
+        padding-right: 15px;}
+#block-quicktabs-enquiry-contact .webform-client-form textarea{border: none;border-bottom: 1px solid #d3d3cb;padding-bottom: 6px;box-shadow:none;border-radius:0;background: transparent;font-family: 'PT Serif', serif;    font-style: italic; color: #666666; font-size: 14px; font-weight: 600;}
+#block-quicktabs-enquiry-contact .webform-client-form  .form-actions {margin-left: 0px; margin-top: 0px;}
+.form-item .form-control{background-color: #f8f7ed;}
+.form-item .grippie{ display: none;}
+footer{padding: 60px 0 50px 0; }
+.btn-default:hover { color: #fff; background-color: #000;}
+.region-footer .menu li{float: left; list-style: none;}
+.region-footer .menu li a, .footer-inner .region-footer .expanded  span{color: #f36e21; font-weight: 600; line-height: 20px; letter-spacing: 1px;text-transform: uppercase;}
+.footer-inner .region-footer .expanded  span{color: #f36e21;font-size: 12px; font-weight: 600;text-transform: uppercase !important;}
+.footer-inner .region-footer .expanded{line-height: 39px;   }
+.region-footer .menu li br{display: none}
+.navbar-default .navbar-nav .open .dropdown-menu>li>a{color: #f36e21;}
+p.social-icons {margin: 0;line-height: 50px;font-size: 16px;text-align: right;}
+p.social-icons a{ background-color: #f36e21;color: #ffffff;display: inline-block;line-height: 28px;width: 28px;text-align: center;margin-left: 4px;font-size: 18px;}
+.copyright{margin-bottom: 0;/* margin-top: 20px; */}
+footer .navbar-nav a:first-child{padding-left: 0;}
+.margin-top-25{ margin-top: 25px;}
+.contact-info-box{ background: #ffffff; padding: 30px;}
+.contact-info-box h2{font-size: 30px; font-weight: 400;margin-top: 10px;}
+.contact-info-box h3{font-family: 'PT Serif', serif; font-style: italic; font-weight: 700;font-size: 50px; margin-bottom: 20px;}
+.contact-info-box p { font-weight: 400; font-size: 14px; color: #666666; margin-bottom: 0px !important}
+.margin-t-30 {    margin: 12px 0 0 0 !important;}
+.contact-info-box p a{ font-weight: 600; text-transform: uppercase; color: #f36e21;}
+#contact .contact-info-box{margin-left: 0 !important;width: 100%;}
+.icon-bar{ background: #f36e21;}
+/*.searchbar {max-width:600px;}*/
+.region-top-bar {clear:both; padding: 0 13%}
+.region-top-bar .content-search .form-text {box-shadow: none !important; border: none; border-bottom: 3px solid #f36e21; padding: 0px !important; font-size: 14px;outline: none;color: #666666;box-shadow:initial;border-radius:0;width:420px;}
+.region-top-bar .content-search .input-group-btn {display:none;}
+.searchbar .fa-times {display: none;font-size: 20px; cursor: pointer;color: #f36e21;z-index: 2; top: 2px;}
+.searchbar .search {line-height: 28px; cursor: pointer;display: inline-block;}
+#block-block-8 {position: absolute;z-index: 1;left: 0;right: 0;}
+#quicktabs-outreach_activities .quicktabs-tabs { border: none; text-align: center;}
+#block-quicktabs-outreach-activities .view-content { margin: auto;}
+#block-block-9 h2{ display: none;}
+#block-block-9 {  position: relative;  margin: 97px 0px 286px;}
+#block-block-9 p { background-image: url(../../../../default/files/career.html); background-repeat: no-repeat; width: 940px; height: 840px; right: -239px; top: -666px; z-index: -9999;}
+.front .full-width-wrapper { margin-top: 38px;}
+.course-desc { margin: 0;}
+.flex-direction-nav { position: relative; overflow: hidden;}
+ .title-v2 small {font-family: 'PT Serif', serif;font-size: 22px;font-weight: 400;font-style: italic; color: #bbbbbb; display:block; text-transform:lowercase; margin-bottom:0px; display: none}
+.title-v2 span { font-weight: 400; text-transform: uppercase !important}
+.title-v2 small strong{font-weight: bold}
+.region-header .title-v2 { text-align:left; color:#ffffff;}
+.region-header .title-v2 small {margin-top: 20px; margin-bottom: 10px;color: #ffffff50;}
+.white-bg{ background: #fff;}
+.full-width-wrapper { width:100%; clear:both;}
+.footer { clear:both; margin:0 auto; padding: 40px 0 50px 0;}
+.top-bar-wrapper ul { padding:0px; margin:0px; float:right;}
+.top-bar-wrapper ul li {list-style:none; float:left;}
+.top-bar-wrapper ul li  a {color: #f36e21; font-size: 12px;font-weight: 600; padding-left: 10px; padding-right: 10px; line-height: 45px;display: inline-block;}
+/*.top-bar-wrapper img {float:right; position:relative; top: 2px; height: 15px; width: 15px;cursor:pointer;}*/
+.top-bar-wrapper img { display: none; } /*Hide search icon by Ahmad Fareed*/
+.top-bar-wrapper i { float:right; position:relative;}
+/*.top-bar-wrapper .search-wrapper { max-width: calc(100% - 30px); float: left;}*/
+.top-bar-wrapper .form-actions { margin:0;}
+.top-bar-wrapper .input-group-btn button { background: none;border: none;color: #f36e21;border-bottom: 1px solid #f36e21; border-radius: 0;line-height: 16px;font-size: 19px;}
+.region-header { position:relative;}
+#block-quicktabs-front-banner-tabs {position: absolute;bottom: 0; left: 0; right: 0; z-index: 9;}
+#block-quicktabs-front-banner-tabs .quicktabs-wrapper { background: #f36e21; color:#ffffff; padding: 20px 40px; max-width:66.66%;    display: none;}
+#block-quicktabs-front-banner-tabs ul.quicktabs-tabs { padding-top:0 !important; margin-bottom:0; text-align: left;}
+#block-quicktabs-front-banner-tabs  ul.quicktabs-tabs li a {color:#ffffff; letter-spacing: 1px;}
+#block-quicktabs-front-banner-tabs ul.quicktabs-tabs li.active a { color: rgba(255,255,255,0.5);  border-color:#87080e;}
+#block-quicktabs-front-banner-tabs ul.quicktabs-tabs li:hover a {color: #555555;}
+#block-quicktabs-front-banner-tabs .quicktabs-wrapper h3 {font-family: 'PT Serif', serif; font-style: italic; font-weight: 700; font-size: :26px; color: #ffffff50;}
+#block-quicktabs-front-banner-tabs .quicktabs-wrapper h1 {font-family: 'Montserrat', sans-serif; font-weight: 700; font-size: 70px; color: #ffffff;}
+#block-quicktabs-front-banner-tabs .quicktabs-wrapper h1 span {font-weight: 300;}
+.front-contact-title {text-align: center; font-size: 50px; font-weight: 700;text-transform: uppercase;margin-bottom: 13px;line-height: 50px;}
+.view-about-rit .views-field-view-node a{ font-weight: 600;text-transform: uppercase; color: #f36e21; margin-top: 40px; display: inline-block;font-size:17px;}
+.page-banner-inner {text-align:center; height:304px; width:100%;background: url(../images/banner_academic.jpg) no-repeat ; position: relative; }
+.page-node-244 .page-banner-inner{;background: url(../images/banner_academic.jpg) no-repeat !important;}
+.page-banner-inner:before {content:"";     background: rgba(27, 27, 27, 0.5); display:block; position:absolute; left:0; right:0; top:0; bottom:0;}
+.page-banner-inner .container { position:relative;}
+.page-banner-inner h1 {font-size:40px; text-transform:uppercase; color:#ffffff; margin-top: 130px;}
+.banner-sub-title {font-size:22px; font-family: 'PT Serif', serif; font-style: italic; color:#a7a8a6;}
+.copyright-footer {clear:both; padding-top:20px; color:#666666; font-size: 15px;}
+.region-sidebar-first {padding-top:50px;}
+ul.ntm-categ-list {padding:0;}
+ul.ntm-categ-list li.ntm-top-element {list-style: none;font-weight: 700;padding-bottom: 10px;font-size: 18px;}
+.ntm-list-spacer {position: absolute; right: 64px;}
+ul.ntm-categ-list li.ntm-top-element .ntm-list-spacer:before {content: "";display: block;height: 2px; width: 10px;background: #000000; top: 0;bottom: 0;margin: auto; left: 0; right: 0; position: absolute;}
+ul.ntm-categ-list li.ntm-top-element .ntm-list-spacer:after {content: "";display: block;height: 2px; width: 10px; background: #000000; top: 0;bottom: 0;margin: auto; left: 0; right: 0; position: absolute;transform:rotate(90deg);}
+ul.ntm-categ-list li.ntm-top-element.expanded  .ntm-list-spacer:after {display:none;}
+ul.ntm-categ-list li.ntm-top-element a:link, ul.ntm-categ-list li.ntm-top-element a:visited {color:#000000; padding:5px;}
+ul.ntm-categ-list li.ntm-top-element a:hover {color:#000000;}
+ul.ntm-subcat-list{ padding: 0px 0 25px;}
+ul.ntm-subcat-list li {list-style:none; font-weight: 500;padding-bottom: 6px;}
+ul.ntm-subcat-list li a:link, ul.ntm-subcat-list li a:visited { padding-left:30px;}
+ul.ntm-subcat-list li.active-trail a, ul.ntm-subcat-list li a:hover {color:#515150;}
+ul.ntm-subcat-list li a.active:before { font-family:fontawesome; content:"\f178"; position:absolute; left:10px;}
+#block-block-16 {background-color: #f8f7ed;}
+.img-responsive, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img { width: 100%;}
+#admissions{background: transparent; padding-bottom: 0;}
+#admissions .nav-tabs{width: fit-content; width: -webkit-fit-content; width: -mox-fit-content; width: -o-fit-content; margin: auto; max-width:100%;}
+#admissions .nav-tabs>li.active::after{background: #f36e21;}
+#admissions .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover{ color: #666666;}
+#admissions .tab-content{ margin-top: 70px;}
+table>tbody>tr>td, table>tbody>tr>th, table>tfoot>tr>td, .table>tfoot>tr>th, table>thead>tr>td, table>thead>tr>th{ border-top: none; border-bottom: 1px solid #dcdcdc;}
+th{font-family: 'PT Serif', serif;font-weight: 700;font-size: 20px;}
+td{color: #666666;font-size: 15px;font-family: 'Montserrat', sans-serif;font-weight: 300;}
+td:last-child, th:last-child{text-align: center;}
+.float-right{float: right;}
+.custom-btn.float-right{margin-right: 0;}
+.navbar-brand img{ max-height: 24px;}
+.navbar-nav>li>a{ color: #f36e21; font-size: 12px;  font-weight: 600; padding-left: 10px; padding-right: 10px;}
+.navbar{ margin-bottom: 0;}
+.bg-white{ background: #ffffff; margin-top: -1px;}
+.navbar-fixed-top{top: 30px;}
+.navbar-fixed-top-0{ position: fixed;top: 0px; left: 0;right: 0;}
+.nav>li>a:focus, .nav>li>a:hover{background: transparent;}
+#header{z-index: 10000;}
+#topbar li a{padding-bottom: 5px !important;padding-top: 5px !important;}
+#banner .tab-content h3{ font-family: 'PT Serif', serif; font-style: italic; font-weight: 700; font-size: :26px;color: #ffffff50;}
+#banner .tab-content h1{ font-family: 'Montserrat', sans-serif; font-weight: 700; font-size: 50px; color: #ffffff;}
+#banner .tab-content h1 span{ font-weight: 300;}
+.nav-tabs>li>a{font-weight: 600; font-size: 15px; border:none; border-radius: 0;padding: 15px 20px;color:#ffffff; background: transparent;text-align: center;}
+.nav-tabs>li>a:hover{background: transparent; border:none;}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover{color: rgba(255,255,255,0.5); border:none; background: transparent; border: none;}
+.nav-tabs>li.active::after{ content: ""; width: 100%; height: 4px;display: block; background: #87080e; position: absolute;}
+.nav-tabs{ border: none; text-align: center;}
+.nav-tabs li{ float: none;display: inline-block;}
+#banner{ position: relative;}
+#banner .banner-caption{ position: absolute; bottom: 0;  left: 0;  right: 0;}
+.tab-container{ background: #f36e21; padding: 20px 40px;}
+.section-title{font-size: 50px;  font-weight: 700; text-align: center;  text-transform: uppercase;  color: :#000000;  margin-bottom: 40px;}
+.section-title span{ font-weight: 300;}
+#degree-programs{ background: url("../images/diploma.jpg")right bottom no-repeat;}
+#degree-programs .nav-tabs{ width: fit-content; width: -webkit-fit-content; width: -mox-fit-content; width: -o-fit-content;  margin: auto;}
+#degree-programs .nav-tabs>li.active::after{ background: #f36e21;}
+#degree-programs .nav-tabs>li>a{ color: #f36e21; text-transform: uppercase;  font-size: 14px;  font-weight: 600;}
+#degree-programs .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover{ color: #666666;}
+#degree-programs .tab-content{ margin-top: 40px;}
+.course-title{background-color: #dfdecb; height: 150px; display: flex; align-items: center;background-repeat: no-repeat; background-size: contain;background-position: bottom left;}
+.course-title h3{ font-weight: 700; text-align: center; font-size: 16px; display: block; width: 100%;}
+.course-desc{position: absolute; bottom: 0;left: 0px; right: 0px; background-color: #f36e21; overflow: hidden; width: calc(100% - 0px); height: 0; transition: .5s ease;}
+.course-desc .course-desc-container{color: white; font-size: 12px;position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); -ms-transform: translate(-50%, -50%); text-align: center; width: 100%;padding: 18px;}
+.course-desc .course-desc-container a{color:#ffffff; text-transform: uppercase; font-weight: 500;}
+.course-box:hover .course-desc {height: 100%;}
+.margin-t-30{ margin: 30px 0 0 0; }
+.mech-eng{  background-image: url(../images/mech_eng.png);}
+.elec-eng{  background-image: url(../images/mech_eng.png);}
+.micro-elec-eng{  background-image: url(../images/micro-elec-eng.png);}
+.industrial-eng{  background-image: url(../images/industrial_eng.png);}
+.comp-security{   background-image: url(../images/computing_security.png);}
+.comp-it{  background-image: url(../images/computing_and_it.png);}
+.management{ background-image: url(../images/management.png);}
+.inter-business{ background-image: url(../images/inter_business.png);}
+.marketing{ background-image: url(../images/marketing.png);}
+.finance{ background-image: url(../images/finance.png);}
+#admissions{ padding-bottom: 0;}
+#admissions .nav-tabs{ width: fit-content; width: -webkit-fit-content; width: -mox-fit-content; width: -o-fit-content; margin: auto}
+#admissions .nav-tabs>li.active::after{ background: #f36e21;}
+#admissions .nav-tabs>li>a { color: #f36e21; font-size: 16px; text-transform: uppercase; font-weight: 700; line-height: 22px; padding-bottom: 5px; margin-right:0px}
+#admissions .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover{ color: #666666;}
+#admissions .tab-content{ margin-top: 70px;}
+.table-responsive ul li { font-size: 17px; line-height: 25px; font-weight: 300; color: #666666;}
+.text-list { margin: 0 0 30px 0; padding: 0;}
+.text-list li { margin: 0 0 0 20px; padding: 0;list-style-type: none;font-size: 17px;line-height: 25px;font-weight: 300; color: #666666;}
+.academic h2 { font-family: 'PT Serif', serif; font-weight: 700;font-size: 26px;margin-bottom: 20px;}
+.academic h3 { font-family: 'PT Serif', serif; font-weight: 700;font-size: 26px;margin-bottom: 20px;}
+.academic img {margin-bottom: 25px; display: inline-block; width: 100%}
+.page-node-114 .academic img {width:auto;  margin-bottom: 0;}
+.text-list li::before { content: '-'; padding-right: 8px; position: absolute; left: 55px;}
+.tab-pane h3 {font-family: 'PT Serif', serif; font-size: 26px; font-weight: 700;  margin-bottom: 22px;}
+table { width: 100%;margin-bottom: 35px;}
+.table-responsive thead { border-bottom: 2px solid #dcdcdc;}
+.table-responsive thead tr th {line-height: 26px; font-family: 'PT Serif', serif; font-size: 18px; padding: 15px 0;}
+.table-responsive tbody td { font-size: 17px; color: #666;font-weight: 300; padding: 11px 0;}
+.white-desc-box{ background: #ffffff; padding: 30px 40px;margin-left: -75px;width: calc(100% + 90px);}
+.white-desc-box h2{font-size: 30px;font-weight: 400; text-transform: capitalize;}
+.custom-btn{ color: #ffffff !important; padding: 10px 15px; background: #f36e21; border-radius: 0; margin-right: 15px;}
+a:hover{ text-decoration: none;}
+#career{ background: url("../images/career-and-placement.png") bottom right no-repeat; background-size:initial; margin-top: 100px;}
+.career-content-box{ background: #f8f7ed; padding: 40px 40px 40px 0;}
+.career-content-box p a{font-weight: 600; text-transform: uppercase; color: #f36e21; margin-top: 40px; display: inline-block;}
+.text-left{ text-align: left !important;}
+.career-content-box::before { width: 100%; height: 100%; content: ""; position: absolute; left: -80%;  background: #f8f7ed; z-index: -1; top: 0;}
+#outreach-activities .nav-tabs{ width: fit-content; width: -webkit-fit-content; width: -mox-fit-content; width: -o-fit-content; margin: auto;}
+#outreach-activities .nav-tabs>li.active::after{ background: #f36e21;}
+#outreach-activities .nav-tabs>li>a{ color: #f36e21; text-transform: uppercase; font-size: 14px; font-weight: 600;}
+#outreach-activities .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover{ color: #666666;}
+#outreach-activities .tab-content{ margin-top: 30px;}
+.outreach-box{ position: relative;  height: 160px}
+.outreach-box img{height: 100%;}
+.outreach-caption{ position: absolute; left: 0; right: 0; margin: auto; bottom: 20px; color:#ffffff; font-weight: 500; text-align: center;}
+.outreach-desc{position: absolute; bottom: 0; left: 0; right: 0;background-color: #f36e21;overflow: hidden; height: 0; transition: .5s ease;}
+.outreach-desc .outreach-desc-container{color: white;font-size: 12px; position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);-ms-transform: translate(-50%, -50%); text-align: center;width: 100%;padding: 5px;}
+
+.outreach-box:hover .outreach-desc {height: 100%;}
+p{color: #666666;}
+.margin-top-0{margin-top: 0;}
+#about-rit{background: url("../images/about-rit.png") bottom right no-repeat; background-size:contain;}
+#media-center{background: #f8f7ed; padding-bottom: 0; margin-top: 100px;}
+#media-center .white-desc-box p a{ margin-top: 0;}
+#media-center .nav-tabs>li{width: calc(100% / 8); float: left;}
+#media-center .nav-tabs{margin-bottom: 12px;}
+#media-center .nav-tabs>li>a{padding: 10px;}
+#media-center .nav-tabs>li.active::after{display: none;}
+#media-center .nav-tabs>li> a > img{ border: 4px solid transparent;  max-width: 100% !important;}
+#media-center .nav-tabs>li.active> a > img{border: 4px solid #f36e21;}
+.padding-0{ padding: 0 !important;}
+.contact-data-container .container-fluid{ background: #f8f7ed;}
+.contact-data-container{position: relative;}
+.map-content{position: absolute; left: 0; right: 0; top: 0;}
+#contact {padding-bottom: 0;}
+.nav-tabs{ width: fit-content;  width: -webkit-fit-content;  width: -mox-fit-content;   width: -o-fit-content;   margin: auto}
+#contact .nav-tabs>li.active::after{ background: #f36e21;}
+#contact .nav-tabs>li>a{color: #f36e21;  text-transform: uppercase;  font-size: 14px;  font-weight: 600;}
+#contact .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover{color: #666666;}
+#contact .tab-content{ margin-top: 40px;}
+#contact .nav-tabs{ width: fit-content; width: -webkit-fit-content; width: -mox-fit-content;  width: -o-fit-content; margin: auto}
+.form-group{padding: 0px; margin-bottom: 15px;}
+#contact input.form-control{background: transparent;border: none;border-bottom: 1px solid #41414120;box-shadow: none;color: #666666;font-size: 14px;font-family: 'PT Serif', serif;font-style: italic;font-weight: 600;}
+#contact form .btn.custom-btn{margin-left: 15px;margin-top: 20px;}
+footer{padding: 60px 0 50px 0; }
+p.social-icons { margin: 0; line-height: 50px; font-size: 16px; text-align: right;}
+p.social-icons a{background-color: #f36e21; color: #ffffff; display: inline-block; line-height: 26px; width:26px; text-align: center; margin: auto 3px}
+.copyright{ margin-bottom: 0; margin-top: 20px;}
+footer .navbar-nav a:first-child{ padding-left: 0;}
+.margin-top-25{ margin-top: 25px;}
+.icon-bar{ background: #f36e21;}
+.searchbar {height: 40px;display: inline-flex; justify-content: left;align-items: center; margin-right: 10px;} 
+#searchbar-input, #searchbar-input-xs { border: 0px solid; border-bottom: 2px solid #f36e21; width: 185px; font-size: 18px; outline: none; color: #666666; display: block;} /*show search bar By Ahmad Fareed*/
+/*.searchbar .fa-times {display: none; font-size: 26px; line-height: 28px; cursor: pointer; color: #f36e21;}*/
+.searchbar .search {line-height: 28px; cursor: pointer; display: inline-block; }
+.admission-banner {background: url(../images/banner_academic.jpg) no-repeat;text-align: center;height: 304px;width: 1900px;display: table-cell;vertical-align: middle;position: relative;top: 35px;}
+.apply-for-course {background: url(../images/banner_academic.jpg) no-repeat;text-align: center;height: 304px;width: 1900px;display: table-cell;vertical-align: middle;position: relative;top: 35px;}
+.academic-banner{background:url(../images/banner_academic.jpg) no-repeat; background-size: cover !important;  text-align: center;  height: 304px;  width: 100%;background-size: cover; position: relative;}
+.academic-banner::before {    content: '';    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;    /*background-color: rgba(0, 0, 0, 0.3803921568627451)*/;}
+.page-banner{padding: 86px 0;     margin-top: -50px; height: 415px;}
+.region.region-header { margin-top: -50px;}
+
+.page-directory-page .region.region-header { margin-top: 0px;}
+.page-banner h1.page-title{font-size: 50px;font-weight: 300; text-align: center;   text-transform: uppercase;  color: #ffffff;  margin-bottom: 0px; margin-top: 0px}
+.page-banner h1.page-title span { font-weight: 800;}
+.academic_heading{margin: 60px 0 40px; color: #f36e21; font-size: 36px; line-height:40px;  font-weight:300; text-transform: capitalize}
+.academic h1{margin: 60px 0 40px; font-size: 36px; line-height:40px;  font-weight:300; text-transform: none; color: #f36e21;}
+.academic-banner h4, .academic-banner h1, .page-banner h4, .page-banner h1, .page-banner-inner h1, .page-banner-inner h4{display: none}
+/*.academic p{text-align:left}*/
+.academic ul{padding-left:0px}
+.content_point li{display:block}
+.content_point li:before{ content:'-'; margin-right: 10px;}
+.panel-title a[aria-expanded=true] {background: #f2f2f2;}
+.panel-title a::before {content: "\f067"; font-family: fontAwesome;font-size: 22px;line-height: 1.1; color: #f36e21;padding-right: 13px;}
+.panel-title a[aria-expanded=true]::before {content: "\f068";margin-right: 0px;}
+a:focus, a:active{text-decoration: none;}
+.panel-title a{position: relative;font-family: 'PT Serif', serif;font-size: 26px;font-weight: 700;line-height: 60px; color: rgb(252, 224, 224)}
+.panel-title a[aria-expanded=true]::after {content: ""; height: 100%;width: 4px; position: absolute;left: 0;top: 0; background: #f36e21;}
+.panel-default>.panel-heading{padding:0px; border-radius: 0; border: none; border-bottom: 1px solid #dcdcdc; background: none; }
+.panel-group .panel{border-radius: 0;border: none;box-shadow: none;margin: 0;  background: no-repeat;}
+.panel-title>.small, .panel-title>.small>a, .panel-title>a, .panel-title>small, .panel-title>small>a {color: inherit;display: block;padding: 10px 0 10px 25px !important;}
+.panel-default>.panel-heading+.panel-collapse>.panel-body{border: none; padding-left: 0px; padding-right: 0;}
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th{border-top: none;border-bottom: 1px solid #dddddd;}
+th{font-family: 'PT Serif', serif;font-weight: 700;font-size: 18px;}
+td{color: #666666;font-size: 15px;font-family: 'Montserrat', sans-serif;font-weight: 300;}
+td:last-child, th:last-child{text-align: center;}
+.float-right{float: right;}
+.custom-btn.float-right{margin-right: 0;}
+.side-menu .panel-title a::before {content: "\f067";font-family: fontAwesome;font-size: 12px; line-height: 28px; color: #000; position: absolute; right: 0px;}
+.side-menu .panel-title a[aria-expanded=true]::before, .side-menu .panel-title a[aria-expanded='1']::before { content: "\f068" !important;}
+.side-menu .panel-title a {font-size:22px; font-family:'Montserrat', sans-serif;background: no-repeat;line-height: 24px; font-weight: 500; color: #000000; padding-left: 0px !important;}
+.side-menu .panel-default>.panel-heading{border-bottom:inherit}
+.accord li{display:block; padding-bottom:2px}
+.accord li a {font-weight: 500;font-size: 15px !important; color: #f36e21 !important;line-height: 25px;}
+.accord li a.active {color:#515150 !important;}
+.accord li a.active::before {content: '\f178'; font-family: FontAwesome;font-style: normal;font-weight: normal;text-decoration: inherit;position: absolute; left: -25px; color: #f36e21;}
+.side-menu .panel-title a::after { content: ""; height: 100%; width: 4px; position: absolute; left: 0; top: 0;background: transparent; }
+.side-menu .panel-default>.panel-heading+.panel-collapse>.panel-body { padding-left:5px; padding-top: 0px}
+.accord li a:hover{color:#000;}
+.side-menu .panel-title>.small, .panel-title>.small>a, .panel-title>a, .panel-title>small, .panel-title>small>a{padding:10px}
+.resource h3{ margin:1em auto}
+.resource a:hover { color: #000;}
+.flyer_btn { font-weight: 600;}
+.custom-btn:hover { background: #000;}
+.panel-group .panel+.panel { margin-top: 0;}
+.panel-group {margin-bottom: 85px;}
+.not-front .main-content {padding: 60px 0;}
+#searchbar-icon {cursor: pointer;}
+#navbar > .container {background: transparent;}
+.navbar-brand img{max-height:50px;}
+.navbar-default .navbar-nav>li>a, .navbar-default .navbar-nav>li>span{display:block; color: #f36e21; font-size: 17px;font-weight: 600;padding-left: 12px;padding-right: 12px;text-transform: uppercase !important;     line-height: 50px; cursor: pointer;}
+.navbar-nav .expanded .dropdown-toggle{padding-top: 15px; padding-bottom: 15px }
+.navbar{margin-bottom: 0;}
+.navbar .bg-white{ background: rgba(255,255,255,0.74);margin-top: -1px;}
+.navbar-nav>li>.dropdown-menu{background: rgba(255,255,255,0.74);}
+.navbar-fixed-top{top: 46px;}
+.navbar ul li ul{border: 0px}
+.dropdown-menu>li>a {        font-size: 17px;    color: #f36e21;     font-weight: 600;}
+.dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover { background-color: inherit;}
+.menu li ul{border: 0px;    box-shadow: inherit;}
+.nav .open>a, .nav .open>a:focus, .nav .open>a:hover {  background-color: inherit;}
+.navbar-fixed-top-0{ position: fixed; top: 0px; left: 0; right: 0; border: 0;}
+.nav>li>a:focus, .nav>li>a:hover{ background: transparent;}
+#header{ z-index: 999;}
+.navbar.container, .navbar.container-fluid {    margin-top: 0px !important;}
+#topbar li a{ padding-bottom: 5px !important; padding-top: 5px !important;}
+#banner .tab-content h3{font-family: 'PT Serif', serif; font-style: italic;font-weight: 700;font-size: 24px;color: #ffffff50;}
+#banner .tab-content h1{font-family: 'Montserrat', sans-serif;font-weight: 700; font-size: 50px; color: #ffffff;}
+#banner .tab-content h1 span{font-weight: 300;}
+.nav-tabs>li>a{font-weight: 600;font-size: 15px; border:none;border-radius: 0;padding: 13px;color:#ffffff;background: transparent;text-align: center;}
+.nav-tabs>li>a:hover{background: transparent; border:none;}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover{color: rgba(255,255,255,0.5);border:none;background: transparent;border: none;}
+.nav-tabs>li.active::after{content: "";width: 100%;height: 4px; display: block;background: #f36e21;position: absolute;}
+.nav-tabs{ border: none;text-align: center;}
+.nav-tabs li{float: none;display: inline-block;}
+.navbar-default {background-color: #ffffff;border-color: #ffffff;}
+.navbar-fixed-top-0 > .bg-white {box-shadow: 0 2px 4px 0 rgba(0,0,0,0.10);}
+body.admin-menu .navbar-fixed-top { top: 93px;}
+header#navbar{   min-height: 45px; position: relative;    z-index: 52432;    border: none;    background: rgba(255,255,255,0.74);    border-radius: 0 !important;     max-width: 100% !important;    width: 100%;}
+body.admin-menu .navbar-fixed-top-0 {top: 28px;}
+.menu.nav.navbar-nav .leaf a.active { color: #333;}
+#block-quicktabs-front-banner-tabs ul.quicktabs-tabs {text-align: center;display: inline-block;}
+#block-quicktabs-front-banner-tabs .quicktabs-wrapper h1 { font-size: 50px;}
+.region-header .title-v2 { margin-bottom: 10px;}
+.contant-tabs ul.quicktabs-tabs li a {font-size: 17px; line-height: 12px;}
+ul.quicktabs-tabs li a {border-bottom: 4px solid transparent;}
+.course-title {background-color: #dfdecb; height: 192px; display: flex; align-items: center;background-repeat: no-repeat;background-size: contain;background-position: bottom left;}
+.title-v2 {font-size: 50px; font-weight: 700;color: #000; text-transform: uppercase; padding: 0; line-height: 44px; margin-bottom: 28px;}
+.course-title h3 {font-weight: 700;text-align: center; font-size: 16px; display: block; width: 100%; font-family: 'Montserrat', sans-serif; line-height: 22px;}
+.pt-10 { padding-top: 100px;}
+.degree-programs { position: relative;   }
+/*.degree-programs::before { background: url(../images/program-bg.jpg)right bottom no-repeat;  background-size: 627px; content: " "; position: absolute; min-height: 400px;
+    width: 100%;
+    top: 336px;
+    display: block;
+}*/
+.degree-programs::before {background-size: 627px; content: " "; position: absolute; min-height: 400px;
+    width: 100%;
+    top: 336px;
+    display: block;
+}
+.homebox-type1 .item-list ul {margin-left: -15px; margin-right: -15px;}
+div#quicktabs-container-degree_programs {min-height: 340px;}
+.bg-gray {background: #f8f7ed;}
+.white-desc-box h3{ font-family: 'PT Serif', serif; font-style: italic; font-weight: 700; font-size: 24px; margin-bottom: 20px;}
+.white-desc-box p{font-weight: 400; font-size: 17px; color: #666666;}
+/*.white-desc-box p a, .white-desc-box .more-link a{ font-weight: 600;text-transform: uppercase; color: #f36e21; font-size: 17px;}*/
+.white-desc-box p a, .white-desc-box .more-link a{ font-weight: 600; color: #f36e21; font-size: 17px;}
+.custom-btn{color: #ffffff !important;padding: 15px 40px; background: #f36e21; border-radius: 0;margin-right: 15px; cursor: pointer; text-transform: uppercase !important}
+.custom-btn a{color: #fff;}
+.node-type-degree-programs .custom-btn{margin: 0;padding: 15px 25px !important; display: inline-block; font-size: 15px}
+.white-desc-box .detailed-description a { margin-top: 0px; display: inline-block;}
+.careers-placement { background: url(../../../files/Co_op_new.jpg) center right no-repeat !important;/*background: url(../images/career-and-placement.png) bottom right no-repeat; */
+	margin-top: 100px;}
+.section-subtitle {font-family: 'PT Serif', serif; font-size: 22px;font-weight: 400;font-style: italic;text-align: center;color: #bbbbbb; margin-bottom: 5px;}
+.section-subtitle strong{font-weight: bold}
+.title-v3 {font-size: 30px; font-weight: 800;text-align: center;text-transform: uppercase; color: #000000; margin-bottom: 30px; margin-top: 0;}
+.title-v3 span {font-weight: 300;}
+.career-content-box p a {text-decoration: none;}
+.text {display: -webkit-box;max-width: 100%; margin: 0 auto;font-size: 14px;-webkit-line-clamp: 4;-webkit-box-orient: vertical;overflow: hidden;text-overflow: ellipsis;color: #ffffff;max-height: 100px; line-height: 25px !important; text-align: left}
+.about--rit-section { /*background: url(../images/new-campus1.jpg) bottom right no-repeat; */background: url(../../../files/Bird_Eye_View.jpg)center right no-repeat !important;
+	background-size: contain;}
+.view-media-center .item-list ul>li {width: calc(100% / 8);display: inline-block;float: left;}
+.view-media-center .item-list ul>li .views-field-php{    padding: 10px 10px 10px 0;}
+.view-media-center .item-list ul>li .views-field-php img {border: solid 4px transparent;}
+.view-media-center .item-list ul>li.active-media .views-field-php img {border: 4px solid #f36e21;}
+section.footer-map { padding-bottom: 0;}
+.footer {border: 0;}
+footer .menu.nav a:first-child {padding-left: 0;}
+#block-quicktabs-enquiry-contact .webform-client-form .form-actions .btn { font-weight: bold;}
+.login { background: #f36d21; height: 100vh; overflow: hidden; position: relative;}
+.login.register {background: #f36d21;}
+.login .login-body h2 { font-weight: 300; color: #333;font-size: 24px;padding: 30px 30px 15px 30px;}
+.login-box-body, .register-box-body { background: #fff; padding: 20px; border-top: 0;  color: #666;}
+.login-box-body, .register-box-body {padding: 0;}
+.login-box-body form, .register-box-body form { padding: 0 30px;overflow: hidden;}
+.login-box-body form .form-submit {margin-right: 0; background: #f36d21; border-color: #f36d21;}
+div#edit-actions--4 {text-align: center;}
+.login-box {width: 420px; margin: 0;position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);}
+.register-box {width: 420px; margin: 0; max-width: 100%;position: absolute; top: 50%;left: 50%; transform: translate(-50%, -50%);}
+.forget::after {
+    content: "";
+    clear: both;
+    display: block;
+}
+.login .login-body .forget {padding-top: 50px;}
+.login .login-body .forget a {background: #eee;padding: 10px 0; text-align: center;display: inline-block;text-decoration: none; color: #555;width: 50%;float: left;border-right: solid 1px #ddd;}
+.login .login-body .forget a.full {display: block;width: auto;float: none;}
+.login .login-body .forget a:hover {background: #ddd;}
+.login-logo a {display: inline-block; width: 100%;text-align: center;padding: 15px;}
+.login-logo a img{ max-width: 100%;}
+.form-control {display: block; width: 100%;height: 40px;padding: 6px 12px; font-size: 14px; line-height: 1.42857143;color: #555;background-color: #fff; background-image: none;border: 1px solid #e6e6e6; border-radius: 0;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075); -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s; transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;}
+/* .form-item .form-control { background-color: #ffffff;} */
+.register .form-type-password-confirm .help-block {clear: both;display: none !important;}
+.form-type-password-confirm .form-type-password {clear: left; width: 100%;}
+.login form .form-group { margin-top: 0;}
+.faculty-profile-view .profile-image { float: left; width: 150px;}
+.faculty-profile-view > div { overflow: hidden; margin-bottom: 30px;}
+.faculty-profile-view .profile-more { width: calc(100% - 150px);float: left;padding-left: 15px;}
+.profile-more h2 a {color: #000; text-decoration: none; font-style: italic; font-size: 22px;font-weight: bold;font-family: 'PT Serif', serif;}
+.profile-more .designation {font-weight: bold; margin-bottom: 5px;}
+.view-directory table thead th {font-weight: 800; font-style: italic; font-family: 'PT Serif', serif; width: 33.3333%;}
+.view-directory table tbody td a {font-weight: bold;}
+#block-system-main .views-table .direct {border-bottom: 2px solid grey; border-top: 1px solid #e1e1e1;}
+	    #block-system-main .view-content table thead tr tr td {padding:20px 0px;}
+    #block-system-maine .views-table .directory-tab tr td > a {color:#ff9900; font-size: 17px; font-weight: 800;}
+    #block-views-directory-block-1 .view-content table thead tr th:first-child {width:70%; }
+	#block-views-directory-block-1 .view-content table thead tr th:nth-child(2) {width:15%; }
+	#block-views-directory-block-1 .view-content table thead tr th:last-child {width:15%; text-align:left; }
+    #block-views-directory-block-1 .views-table {margin: 70px 0px 0px 0px;}
+    #block-views-directory-block-1 .view-content table thead tr tr td {padding:20px 0px;}
+    #block-views-directory-block-1 .views-table .directory-tab tr td > a {color:#ff9900; font-size: 17px; font-weight: 800;}
+    #block-views-directory-block-1 .view-content table tbody tr td:first-child {width:70%; }
+    #block-views-directory-block-1 .view-content table tbody tr td:nth-child(2) {width:15%; }
+    #block-views-directory-block-1 .view-content table tbody tr td:last-child {width:15%; text-align:left;}
+    #block-system-main .tabs-section { width: 100%;  display: inline-block;   margin: 50px 0px;}
+    .field-content a{ font-size: 15px; font-weight: 700; margin: 10px auto;  display: inline-block;}
+    #quicktabs-outreach_activities .field-content a{color: #fff !important; padding: 0 10px;}
+    .outreach-desc .outreach-desc-container a{text-transform: uppercase;font-weight: 500;}
+    #block-system-main .tabs-section .nav-justified li a { color: #f36e21 !important; border: none; text-align: left; text-transform: uppercase;font-size: 17px;}
+    .nav-tabs>li.active::after {background: #f36e21;}
+    #block-system-main .tabs-section .nav-justified li.active a { color: #000 !important; cursor: default; }
+    #block-system-main .tabs-section .nav-justified li.active.not-active a{color: #f36e21 !important; border: 0px;}
+    #block-system-main .tabs-section .nav-justified li.active.not-active::after{height: 0px !important;}
+    .tabs-section a { color: #f36e21 !important;}
+    #block-system-main .tabs-section .tab-content.card {padding: 20px 0px;}
+    .inside_rit_fac_img{display:inline-block;float: left;}
+    .faculty-profile-detail{display: inline-block; margin-left: 20px; float: left;}
+    .page-node-63 .faculty-profile-detail{width: 100%}
+    .faculty-profile-detail h4 a{color:#000; text-transform: capitalize; margin-top: 40px; font-family: 'PT Serif', serif;}
+    .faculty-profile-detail h5{font-size: 15px; font-weight: 600; text-transform: capitalize;}
+   .inside_rit_img{display: inline-block;  margin-bottom: 10px; width: 100%;}
+   .page-node-134 .faculty-profile-detail h4 a{font-weight: 700;   font-style: italic; font-size: 17px; margin-bottom: 0px}
+   #block-views-indide-rit-block-2 .views-row.views-row-3.views-row-odd.views-row-last.col-sm-6 { margin-top: 65px;}
+.faculty-profile-detail h3 {font-size: 36px;}
+.profile_detail strong { font-size: 17px; font-weight: 700;  width: 200px; display: inline-block;}
+.inside_rit_faculty h2{    font-weight: 600;     margin: 50px 0 21px;}
+.degree-tabs.facilty_tabs ul li a { color: #f36e21;text-transform: uppercase;}
+.degree-tabs.facilty_tabs .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover { color: #000;}
+ .region-content #block-system-main .panel-body b{font-size: 17px}
+.page-node-134 .inside-rit .page-heading { display: none;}
+.facilty_tabs div.tab-pane {font-size: 17px;line-height: 30px;font-weight: 300;margin-top: 20px;}
+section.inside-rit { padding-left: 30px; padding-top: 30px;}
+section.inside-rit .region.region-content {padding-left: 10px;}
+.inside_rit_faculty { margin-left: 50px; display: block; padding-top: 35px;}
+div#panel0 {font-size: 17px;line-height: 25px; font-weight: 300;}
+.page-node-137 .inside-rit .page-heading { display: none;}
+.page-node-75 .tabs-section{display: none !important}
+.page-node-94 .tabs-section{display: none;}
+.page-node-73 .tabs-section{display: none !important;}
+.page-node-73 .panel-group { margin-bottom: 0px;}
+.panel-default>.panel-heading+.panel-collapse>.panel-body {border: none; padding-left: 0; padding-right: 0;}
+#admissions .tab-content #nodetab-121 p :first-child{ color: #f36e21}
+#admissions .tab-content #nodetab-121 p .custom-btn a{ color: #fff}
+.region-content #block-system-main ul li{ font-size: 17px; line-height: 30px; font-weight: 300}
+#node-26 .webform-client-form .form-item input{ box-shadow: inherit; border-bottom: 1px solid #d9d9d9}
+#node-26 .form-item .form-control{border:0}
+#node-26 .form-item.webform-component {display: inline-block; width: 50%; padding: 12px}
+#node-26 .form-item.webform-component textarea{ box-shadow: inherit;    border-bottom: 1px solid #d9d9d9;  resize: none;}
+.page-node-26 .region.region-content {    padding-left: 40px;    padding-RIGHT: 40PX;}
+ .form-item input{ box-shadow: inherit; border-bottom: 1px solid #d9d9d9;font-weight: 600;font-size: 15px;font-style: italic;}
+ .form-item.webform-component {    display: inline-block;    width: 50%; padding: 0 15px; vertical-align: top;}
+ .form-item-submitted-graduation-day{padding: 0 15px;}
+ .form-item .form-control {  font-weight: 600; height: 60px;    line-height: 25px; border: 0px; box-shadow: inherit;    border-bottom: 1px solid #d9d9d9; font-size: 15px;     color: #99999c;}
+ #edit-submitted-other-credentials-ajax-wrapper, #edit-submitted-passport-copy-ajax-wrapper, #edit-submitted-personal-statement1-ajax-wrapper, #edit-submitted-sat-if-completed-ajax-wrapper, #edit-submitted-school-transcript-ajax-wrapper, #edit-submitted-toefl-or-ielts-ajax-wrapper{width: 100%; display:block ;}
+.form-item.webform-component.webform-component-file.webform-component--other-credentials.form-group.form-item.form-item-submitted-other-credentials.form-type-managed-file.form-group {width: 100% !important;display: inline-block;}
+#edit-submitted-other-credentials-ajax-wrapper .form-item.webform-component, #edit-submitted-passport-copy-ajax-wrapper .form-item.webform-component, #edit-submitted-personal-statement1-ajax-wrapper .form-item.webform-component, #edit-submitted-sat-if-completed-ajax-wrapper .form-item.webform-component, #edit-submitted-school-transcript-ajax-wrapper .form-item.webform-component, #edit-submitted-toefl-or-ielts-ajax-wrapper .form-item.webform-component{width: 100%; display: inline-block;}
+#search-form #edit-keys{padding: 25px; font-size: 17px; font-weight: 500;}
+span.icon.glyphicon.glyphicon-search{padding: 12px}
+fieldset .panel-heading a.panel-title {margin: 0px 0px; padding: 15px;}
+.breadcrumb {margin-top: 50px;}
+.panel{border-radius: 0px}
+fieldset .panel-heading a.panel-title {color: #f36e21;}
+.breadcrumb{padding: 20px; border-radius: 0;}
+.search-snippet-info{margin-left: 30px}
+ol.search-results.node-results{font-size: 17px; font-weight: 700}
+.search-snippet{line-height: 40px;}
+.search-result a{margin-left: 15px}
+.pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover{background-color: #f36e21;border-color: #f36e21;}
+ #nodetab-120 .custom-btn a{color: #fff; text-transform: uppercase;}
+ #nodetab-121 .custom-btn a{color: #fff; text-transform: uppercase;}
+ #nodetab-126 .custom-btn a{color: #fff; text-transform: uppercase;}
+ #nodetab-132 .custom-btn a{color: #fff; text-transform: uppercase;}
+ .webform-container-inline div, .webform-container-inline div.form-item {padding: 0px !important; min-width: 33% !important;}
+
+ .webform-container-inline div, .webform-datepicker div.form-item {padding: 0px !important; min-width: 50% !important;}
+
+ .webform-container-inline div, .webform-component-time div.form-item {padding-right: 5px !important; min-width: 50% !important;}
+
+ .webform-container-inline div, .webform-component-time div.form-item:nth-child(2) {padding-left: 5px !important; min-width: 50% !important;}
+
+ .webform-container-inline div, .webform-container-inline {display: flex; align-items: center;}
+
+
+
+
+.field.field-name-field-photo-adv.field-type-image.field-label-above, .field.field-name-body.field-type-text-with-summary.field-label-hidden{width: 50%; display: inline-block; vertical-align: top; }
+.field.field-name-body.field-type-text-with-summary.field-label-hidden p{margin-top: 16px; line-height: 35px}
+.webform-component-date .webform-container-inline .webform-datepicker .form-item{width: 31% !important}
+ .node-media-center .submitted{display: none}
+.field.field-name-field-photo-adv.field-type-image.field-label-above .field-label{display: none}
+.webform-progressbar-page:last-child{display: none}
+#edit-account--2 .row{margin-left: inherit !important; margin-right: inherit !important;}
+html.js input.webform-calendar{display: none !important;}
+.webform-datepicker .form-item-submitted-birthdate-day, .webform-datepicker .form-item-submitted-birthdate-month,.webform-datepicker .form-item-submitted-birthdate-year{width: 31% !important; display: inline-block !important; margin-right: 10px;}
+.webform-datepicker .form-item-submitted-birthdate-day, .webform-datepicker .form-item-submitted-birthdate-month,.webform-datepicker .form-item-submitted-birthdate-year:last-child{width: 33% !important; display: inline-block !important; margin-right: 12px !important;}
+.form-item.webform-component.webform-component-date.webform-component--birthdate.form-group.form-item.form-item-submitted-birthdate.form-type-date.form-group{margin-top:0px !important; padding-top: 0px; vertical-align: bottom;}
+.form-item.form-item-submitted-gmat-or-gre-test-date-or-anticipated-date-month.form-type-select.form-group, .form-item.form-item-submitted-gmat-or-gre-test-date-or-anticipated-date-day.form-type-select.form-group, .form-item.form-item-submitted-gmat-or-gre-test-date-or-anticipated-date-year.form-type-select.form-group {
+    width: 100% !important; display: inline-block;}
+.form-item.webform-component.webform-component-date.webform-component--gmat-or-gre--test-date-or-anticipated-date.form-group.form-item.form-item-submitted-gmat-or-gre-test-date-or-anticipated-date.form-type-date.form-group{
+    margin: 0px !important; vertical-align: bottom;}
+
+.form-item-submitted-ielts-test-date-or-anticipated-date-month, .form-item-submitted-ielts-test-date-or-anticipated-date-day, .form-item-submitted-ielts-test-date-or-anticipated-date-year {width: 33% !important;display: inline-block;}
+.form-item.webform-component.webform-component-date.webform-component--ielts--test-date-or-anticipated-date.form-group.form-item.form-item-submitted-ielts-test-date-or-anticipated-date.form-type-date.form-group{vertical-align: bottom;}
+.form-item.form-item-submitted-toefl-test-date-or-anticipated-date-month.form-type-select.form-group, .form-item.form-item-submitted-toefl-test-date-or-anticipated-date-day.form-type-select.form-group, .form-item.form-item-submitted-toefl-test-date-or-anticipated-date-year.form-type-select.form-group{width: 33% !important; display: inline-block}
+.form-item.webform-component.webform-component-date.webform-component--toefl--test-date-or-anticipated-date.form-group.form-item.form-item-submitted-toefl-test-date-or-anticipated-date.form-type-date.form-group{vertical-align: bottom; margin: 0px;}
+.form-item.form-item-submitted-toefl-education-start-date-month.form-type-select.form-group, .form-item.form-item-submitted-toefl-education-start-date-day.form-type-select.form-group, .form-item.form-item-submitted-toefl-education-start-date-year.form-type-select.form-group{width: 33% !important; display: inline-block}
+.form-item.form-item-submitted-toefl-education-end-date-month.form-type-select.form-group, .form-item.form-item-submitted-toefl-education-end-date-day.form-type-select.form-group, .form-item.form-item-submitted-toefl-education-end-date-year.form-type-select.form-group{width: 33% !important; display: inline-block}
+.form-item.form-item-submitted-toefl-education-degrees-received-or-expected--date-month.form-type-select.form-group, .form-item.form-item-submitted-toefl-education-degrees-received-or-expected--date-day.form-type-select.form-group, .form-item.form-item-submitted-toefl-education-degrees-received-or-expected--date-year.form-type-select.form-group{width: 33% !important; display: inline-block}
+.form-item.webform-component.webform-component-date.webform-component--toefl--education--degrees-received-or-expected--date.form-group.form-item.form-item-submitted-toefl-education-degrees-received-or-expected--date.form-type-date.form-group{vertical-align: bottom; margin: 0px}
+.help-block {line-height: 35px; font-size: 15px;}
+div#edit-submitted-work-experience-personal-data-ajax-wrapper, div#edit-submitted-personal-statement-ajax-wrapper{width: 100% !important; display: block}
+div#edit-submitted-work-experience-personal-data-ajax-wrapper .form-group, div#edit-submitted-personal-statement-ajax-wrapper .form-group{width: 100% !important}
+div#edit-submitted-work-experience-personal-data-ajax-wrapper {vertical-align: top;}
+input#edit-submitted-work-experience-personal-data-upload, input#edit-submitted-personal-statement-upload {margin-bottom: 15px;}
+.webform-progressbar-outer{margin-top: 30px}
+.form-item.webform-component.webform-component-textfield.webform-component--activities.form-group.form-item.form-item-submitted-activities.form-type-textfield.form-group{margin-bottom: 0px; vertical-align: top !important;}
+.form-item.webform-component.webform-component-date.webform-component--graduation-date.form-group.form-item.form-item-submitted-graduation-date.form-type-date.form-group{margin: 0; vertical-align: bottom}
+.form-item.webform-component.webform-component-select.webform-component--transfer-student.form-group.form-item.form-item-submitted-transfer-student.form-type-select.form-group{vertical-align: bottom}
+.form-item.webform-component.webform-component-date.webform-component--exam-information--exam-1--date-or-anticipated-date.form-group.form-item.form-item-submitted-exam-information-exam-1-date-or-anticipated-date.form-type-date.form-group{vertical-align: bottom; width: 100%}
+.form-item.webform-component.webform-component-date.webform-component--exam-information--exam-2--date-or-anticipated-date1.form-group.form-item.form-item-submitted-exam-information-exam-2-date-or-anticipated-date1.form-type-date.form-group{vertical-align: bottom; width: 100%}
+.form-item.webform-component.webform-component-date.webform-component--exam-information--exam-3--date-or-anticipated-date2.form-group.form-item.form-item-submitted-exam-information-exam-3-date-or-anticipated-date2.form-type-date.form-group{vertical-align: bottom; width: 100%}
+.form-item.webform-component.webform-component-date.webform-component--exam-information--exam-4--date-or-anticipated-date3.form-group.form-item.form-item-submitted-exam-information-exam-4-date-or-anticipated-date3.form-type-date.form-group{vertical-align: bottom; width: 100%}
+input#edit-submitted-other-credentials-upload{margin-bottom: 10px}
+input#edit-submitted-other-credentials-upload, input#edit-submitted-passport-copy-upload, input#edit-submitted-personal-statement1-upload, input#edit-submitted-sat-if-completed-upload, input#edit-submitted-school-transcript-upload, input#edit-submitted-toefl-or-ielts-upload{margin-bottom: 10px}
+div#edit-submitted-sat-if-completed-ajax-wrapper{vertical-align: top}
+/*textarea#edit-submitted-if-the-answer-is-yes-please-explain, textarea#edit-submitted-awards, textarea#edit-submitted-home-address{height: 40px;}*/
+.form-item.webform-component.webform-component-select.webform-component--have-you-ever-been-dismissed-placed-on-probation-suspended-from-school-or-convicted-of-a-crime.form-group.form-item.form-item-submitted-have-you-ever-been-dismissed-placed-on-probation-suspended-from-school-or-convicted-of-a-crime.form-type-select.form-group{vertical-align: top}
+.form-item.webform-component.webform-component-textarea.webform-component--awards.form-group.form-item.form-item-submitted-awards.form-type-textarea.form-group{vertical-align: text-top}
+.form-item.webform-component.webform-component-textfield.webform-component--last-name-family-name.form-group.form-item.form-item-submitted-last-name-family-name.form-type-textfield.form-group, .form-item.webform-component.webform-component-select.webform-component--have-you-ever-been-disciplined-by-a-school-or-convicted-of-breaking-the-law.form-group.form-item.form-item-submitted-have-you-ever-been-disciplined-by-a-school-or-convicted-of-breaking-the-law.form-type-select.form-group {vertical-align: top;}
+.left_bg #sidebarmenu-accordion a{ color: #000; font-weight: 600;  font-size: 18px; position: relative;  padding-right: 30px !important;}
+
+#edit-account .row{margin-left: 0px; margin-right: 0px}
+#user-profile-form #edit-account input{border-bottom: 1px solid #d9d9d9 !important; box-shadow: none}
+#user-profile-form #edit-account .form-control {border: inherit;}
+.webform-component-fieldset .panel-heading .panel-title, #user-profile-form  .panel-heading .panel-title{padding: 20px; display: inline-block}
+#user-profile-form #edit-actions .btn-success {color: #fff; background-color: #f36e21;border-color: #f36e21; padding: 11px 40px !important; margin-right: 0px !important;border-radius: 0;font-size: 20px;}
+.inside-rit .view.view-uploads{margin-top: 60px; }
+.views-field-field-upload-file a{display: block}
+#block-system-main{margin-left:0px}
+div#quicktabs-container-front_banner_tabs p{color: #fff; margin-top: 20px; }
+.webform-progressbar-page .webform-progressbar-page-label{margin: 0 30px !important; text-transform: uppercase !important;}
+.webform-progressbar-page {position: static !important;}
+.webform-progressbar-outer{display: flex;justify-content: center;}
+.webform-progressbar{width: 100%;}
+.webform-progressbar-page{width: initial;}
+.webform-progressbar-inner {width: 0 !important; display: none !important}
+ .footer-map #block-quicktabs-enquiry-contact{width: 45%}
+.footer-map #block-quicktabs-enquiry-contact .form-item {width: 100%}
+.row.left_new { width: 100%; display: flex; display: -ms-flexbox;}
+#user-register-form--2 .form-control, #user-pass--2 .form-control, #user-login--2 .form-control{border: 0px; box-shadow: inherit; border-bottom: 1px solid #e3e3e3}
+.user-picture{margin-bottom: 2em}
+#user-profile-form{margin-top: 10px; display: inline-block}
+#user-pass{margin-top: 50px; display: inline-block}
+.page-node-21 .banner-sub-title{margin-top: 100px}
+.page-node-21 .page-banner-inner h1{margin-top: 0px}
+.page-node-21 h1.page-header{display: none}
+.has-feedback label~.form-control-feedback {    top: 0px;}
+#edit-advanced-body .criterion .form-control{ border: 0px; box-shadow: inherit; border-bottom: 1px solid #d9d9d9; font-weight: 600; font-size: 15px; font-style: italic;}
+.page-search-node #block-system-main #search-form #edit-basic .form-control{border: 0px; box-shadow: inherit; border-bottom: 1px solid #d9d9d9; font-weight: 600; font-size: 20px; font-style: italic;}
+.page-search-node #block-system-main #search-form #edit-basic .btn-primary{background: none; color: #f36e21; border: 0px}
+.page-search-node #block-system-main #search-form #edit-basic span.icon.glyphicon.glyphicon-search {    padding: 0px;}
+.page-search-node #block-system-main #search-form #edit-basic .glyphicon-search:before {    content: "\e003";    font-size: 25px;}
+.page-search-node #block-system-main #search-form #edit-basic .btn.active.focus, .btn.active:focus, .btn.focus, .btn:active.focus, .btn:active:focus, .btn:focus { outline: 0px auto -webkit-focus-ring-color;  outline-offset: -2px;}
+.page-search-node #block-system-main #search-form #edit-basic button.btn.btn-primary{box-shadow: none}
+.page-search-node #block-system-main #search-form #edit-basic .glyphicon-search:focus {  outline: 0;}
+.page-search-node #block-system-main #search-form #edit-advanced .action .form-submit{ border: 0; border-radius: 0; padding: 15px 25px; background: #f36e21; box-shadow: inherit;  margin: 30px auto;}
+.page-search-node #block-system-main #search-form #edit-advanced .action .form-submit:hover{background: #000;}
+.page-search-node #block-system-main #search-form #edit-advanced .checkbox label, .radio label {  min-height: 32px; padding-left: 46px; margin-bottom: 0; font-weight: 400;  cursor: pointer; line-height: 35px;}
+.page-search-node #block-system-main #search-form #edit-advanced .checkbox input[type=checkbox], .checkbox-inline input[type=checkbox], .radio input[type=radio], .radio-inline input[type=radio] { margin-left: -40px; height: 27px;   width: 27px;}
+.page-search-node #block-system-main #search-form #edit-advanced .criterion .form-type-checkbox{width: 25%; display: inline-block}
+input[type=checkbox]{background: #fff; -webkit-appearance: none; -moz-appearance: none; -o-appearance: none; -ms-appearance: none; border: 1px solid #000;}
+input[type=checkbox]:checked{background:url(../images/check2.png) no-repeat; border: 1px solid #000;}
+input[type=checkbox]:focus{outline: inherit}
+#webform-client-form-26 .form-actions, #webform-client-form-147 .form-actions{text-align: right}
+button.webform-submit.button-primary.btn.btn-primary.form-submit {  float: right; background: #f36e21; border: 0; border-radius: 0; padding: 0 30px; line-height: 54px;  font-size: 15px;}
+#webform-client-form-149 .webform-next{    float: right;}
+.webform-next, .webform-previous, .webform-submit{margin-top: 20px;}
+#block-quicktabs-enquiry-contact #quicktabs-enquiry_contact #quicktabs-container-enquiry_contact textarea {    resize: none; height: 40px;  }
+#webform-client-form-147 .form-actions .webform-previous{float: left;}
+.page-search-node #block-system-main #search-form #edit-advanced .criterion label{margin-bottom: 15px}
+#block-block-14 p { font-weight: 700;}
+#quicktabs-container-enquiry_contact .quicktabs-tabpage .form-actions{text-align: left}
+#map{height: 620px !important;}
+.title-v2 small::last-word {    color: #00f;  }
+#quicktabs-admissions #quicktabs-container-admissions .detailed-description br {display: none}
+#quicktabs-admissions #quicktabs-container-admissions .detailed-description .custom-btn{margin-right: 30px !important}
+#accordion .panel-default ul{padding-left: 45px; margin: 20px auto;}
+.accordin_content ul{margin-top: 20px; margin-bottom: 25px}
+strong{color: #f36e21; font-size: 20px;}
+.accordin_content h2{text-align: center !important}
+.accordin_content strong{ margin: 18px 0;    display: block;}
+.accordin_content tr td strong, .accordin_content th strong, .accordin_content ul li strong{margin: 0px !important; display: inline; font-size: 16px}
+.accordin_content table tr td .course{text-align: left}
+.table-responsive tbody th { color: #666; padding: 11px 0;}
+.accordin_content h5{line-height: 30px;}
+.accordin_content ul li, .accordin_content ol li{text-align: left; font-size: 17px; line-height: 25px; font-weight: 300; color: #666666; padding-bottom: 15px;}
+.accordin_content ul li:last-child, .accordin_content ol li:last-child{ padding-bottom: 0px;}
+.accordin_content table tr td{vertical-align: top}
+.accordin_content img{width:auto; margin: 0 10px 0 0;}
+.accordin_content span{text-transform: lowercase !important}
+.page-node-192 #block-system-main p > a:nth-child(2){text-transform: lowercase !important}
+ .white-desc-box ul li{    float: inherit !important;    list-style: inherit !important;}
+ .accordin_content table tr td, .accordin_content table tr th{text-align: left}
+ #details .view-id-media_details .details-box video{    height: initial !important; width: 100% !important}
+  .dropdown-menu>.active>a, .dropdown-menu>.active>a:focus, .dropdown-menu>.active>a:hover{background: none}
+#node-203 .field.field-name-body.field-type-text-with-summary.field-label-hidden, #node-204 .field.field-name-body.field-type-text-with-summary.field-label-hidden,
+#node-205 .field.field-name-body.field-type-text-with-summary.field-label-hidden, #node-206 .field.field-name-body.field-type-text-with-summary.field-label-hidden,
+#node-207 .field.field-name-body.field-type-text-with-summary.field-label-hidden, #node-208 .field.field-name-body.field-type-text-with-summary.field-label-hidden,
+#node-209 .field.field-name-body.field-type-text-with-summary.field-label-hidden, #node-210 .field.field-name-body.field-type-text-with-summary.field-label-hidden,
+#node-211 .field.field-name-body.field-type-text-with-summary.field-label-hidden, #node-212 .field.field-name-body.field-type-text-with-summary.field-label-hidden,
+#node-213 .field.field-name-body.field-type-text-with-summary.field-label-hidden, #node-214 .field.field-name-body.field-type-text-with-summary.field-label-hidden,
+#node-215 .field.field-name-body.field-type-text-with-summary.field-label-hidden, #node-216 .field.field-name-body.field-type-text-with-summary.field-label-hidden,
+#node-217 .field.field-name-body.field-type-text-with-summary.field-label-hidden, #node-218 .field.field-name-body.field-type-text-with-summary.field-label-hidden,
+#node-227 .field.field-name-body.field-type-text-with-summary.field-label-hidden, #node-228 .field.field-name-body.field-type-text-with-summary.field-label-hidden,
+#node-229 .field.field-name-body.field-type-text-with-summary.field-label-hidden, #node-230 .field.field-name-body.field-type-text-with-summary.field-label-hidden,
+#node-250 .field.field-name-body.field-type-text-with-summary.field-label-hidden{width: 100%}
+.node-type-faculty-profiles .academic-banner .section-subtitle, .node-type-faculty-profiles .academic-banner .page-title{display: none}
+.page-node-122 .accordin_content #admissions .tab-content #nodetab-121 p :first-child{color:#f36e21 !important}
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover{background-color: inherit !important}
+.expanded .caret{height: 5px;}
+.academic .block-system ul{padding-left: 40px}
+.inside_rit_faculty .accordin_content img{width: 50%; margin: 0px}
+.page-directory-page .view-directory table tbody td a, .page-node-193 .right_content .inside-rit p a{text-transform: lowercase;}
+.white-desc-box .description li a:nth-child(3){text-transform: lowercase}
+.page-user-login .login-box #messages .section{padding: 0px}
+ul li.collapsed, ul li.expanded, ul li.leaf {    list-style: none;   line-height: 80px;}
+.form-type-markup{width: 100% !important}
+.form-type-markup p{    color: #000;    font-weight: 600;}
+.form-type-markup{margin-top: 0px}
+.left_bg .panel-default>.panel-heading{padding: 0px }
+.view-content .views-field-nothing ul{padding-left: 16px}
+.view-content .views-field-nothing ul li {    line-height: 30px;    color: #666666;    font-size: 17px;    font-weight: 400;}
+.page-node-134 .inside_rit_fac_img {    display: inline-block;    width: 40%;    float: left;}
+.page-node-134 .faculty-profile-detail {    display: inline-block;  width: 55%;   margin-left: 20px;   float: left;}
+.page-node-134 .faculty-profile-detail.facultyjohan { width: 100%; } /*Edited by Ahmad Fareed*/ 
+.page-node-134 .faculty-profile-detail.facultyjohan .profile_detail strong { width: 160px; } /*Edited by Ahmad Fareed*/
+.page-node-134 .faculty-profile-detail h5 {margin-bottom: 5px; line-height: 22px;}
+.not-logged-in.page-admin #block-system-main{    text-align: center;    margin-top: 100px;    font-size: 40px;}
+#node-202 .field-type-text-with-summary, #node-242 .field-type-text-with-summary{width: 100%}
+#node-202 .field-type-text-with-summary h3, #node-242 .field-type-text-with-summary h3{ font-size: 16px}
+#node-202 .field-type-text-with-summary span, #node-242 .field-type-text-with-summary span{color:#f36e21}
+.page-node-134 #block-quicktabs-enquiry-contact{top:85px}
+.no_padding{padding: 0px}
+.according_content h3{    margin-bottom: 10px;    margin-top: 0px;    line-height: 23px;}
+#node-247 .field.field-name-body.field-type-text-with-summary.field-label-hidden{width: 100% !important}
+.page-directory-page .table-striped > thead > tr > th:nth-child(1){width: 60%}
+.page-directory-page .table-striped > thead > tr > th:nth-child(2){width: 25%}
+.page-directory-page .table-striped > thead > tr > th:nth-child(3){width: 15%; text-align: left}
+.page-directory-page .table-striped > tbody > tr > td {    line-height: 40px !important; text-align: left; padding-left: 0px;}
+.table-striped > tbody > tr > td span{display: block;  font-style: italic;  }
+.page-directory-page .table-striped{margin-top: 50px;}
+.footer-map section .webform-client-form .captcha{display: inline-block; width: 100%; padding: 0 15px;}
+.captcha {    width: 49%;    display: block;}
+    #webform-client-form-149 .captcha, #webform-client-form-239 .captcha, #webform-client-form-148 .captcha{margin-bottom: 10px;}
+    .has-error .error {    border-color: #f36e21 !important;}
+    .has-error .error:focus {  border-color: #843534;    -webkit-box-shadow: none;      box-shadow:none }
+    .region-top-bar .content-search .form-text{line-height:20px;        height:20px; margin-top:10px;border:none; background: transparent; width: 185px;}
+    .banner-sub-title{display: none;}
+    .messages.webform-confirmation{background: #b5f3c8; padding-top: 0px !important; padding-bottom: 0px !important}
+
+.form-type-password-confirm .password-help{	margin-left: 15px;  position: absolute;	left: 61%;	top: -15%;  background: rgb(255, 255, 255);  z-index: 100;  box-shadow: rgba(0, 0, 0, 0.2) 0px 4px 8px 0px, rgba(0, 0, 0, 0.19) 0px 6px 20px 0px;}
+.footer-map .block-webform-client-block-26 p{font-size: 15px;}
+.footer-map .messages.error.messages-inline{margin: auto 15px}
+.footer-map .captcha .messages.error.messages-inline{margin: auto 0px}
+button.webform-submit.button-primary.btn.btn-primary.form-submit:hover {    background: #000 !important;}
+body #admin-menu{z-index: 4564554 !important}
+#node-149 .webform-component-fieldset .webform-component-date{width: 100% !important}
+#node-149 .webform-component-fieldset .webform-component--gmat-or-gre--gmat-or-gre-score, #node-149 .webform-component-fieldset  .form-item-submitted-ielts-ielts-score,
+#node-149 .webform-component-fieldset  .form-item-submitted-toefl-toefl-score,#node-149 .webform-component-fieldset  .form-item-submitted-current-courses-course-title{width: 100% !important}
+#node-149 .webform-component-fieldset .form-type-select{width: 33% !important}
+#user-login--2 .captcha, #user-register-form--2 .captcha{width: 100% !important;margin-bottom: 20px;}
+.node-type-degree-programs .custom-btn{white-space: nowrap;}
+.lab_img{min-height: 270px; margin-bottom: 20px;}
+.lab_img p{margin-bottom: 5px;}
+.form-managed-file .btn-primary{margin-top: 15px;}
+.resource > p{    line-height: 20px;    font-size: 15px;}
+.accordin_content1 img{width: 100%}
+.video_tab{min-height: 260px;}
+.video_tab img{margin-bottom: 30px;}
+#node-322 .field.field-name-body.field-type-text-with-summary.field-label-hidden{width: 100%;}
+#node-322 .field.field-name-body.field-type-text-with-summary.field-label-hidden img{margin: auto; width: 500px !important; height: 500px !important;}
+ .page-node-324 .image-card{display: none;}
+.page-node-324 .areas-supported .area{min-height: 210px;}
+.page-node-324 .areas-supported > .row > .clearfix{display: none !important;}
+.page-node-324 .areas-supported .area-text div{ display: block; display: -webkit-box;height: 54px;margin: 0 auto;-webkit-line-clamp: 3;-webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis;}
+.node-type-our-clubs .areas-supported .area-text div{ display: block; display: -webkit-box;height: 54px;margin: 0 auto;-webkit-line-clamp: 3;-webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis;}
+.node-type-our-clubs .image-card{display: none;}
+.node-type-our-clubs .areas-supported .area{min-height: 210px;}
+.node-type-our-clubs .areas-supported > .row > .clearfix{display: none !important;}
+/*.footer-map section .alert.alert-block.alert-dismissible.alert-danger.messages.error{display: none;}*/
+.accordin_margin p{margin-bottom: 0px;}
+.page-node-195 .accordin_content .accordin_margin ul{margin-top: 0px}
+/*.page-node-281 .areas-supported, .page-node-281 .image-card-right{display: none}*/
+.president_img{width: 100% !important}
+.fa-circle:before {color: #f36e21;  margin-right: 10px;}
+#block-block-14 p { text-align: center;}
+.message_img{width: 30%;    display: inline-block;    vertical-align: top;}
+.meggase_detail{width: 66%;    display: inline-block;    margin-left: 30px;}
+.accordin_content h3 strong{margin: 0px;}
+#admin-menu .admin-menu-account a strong{font-size: 10px}
+#scroll {position:fixed; right:10px; bottom:100px; cursor:pointer; width:40px; height:40px; background-color:#f36e21; text-indent:-9999px; display:none; z-index: 999;}
+#scroll span {position:absolute; top:50%; left:50%; margin-left:-8px; margin-top:-12px; height:0; width:0; border:8px solid transparent; border-bottom-color:#ffffff;}
+#scroll:hover {    background-color:#000;  opacity:1;filter:"alpha(opacity=100)"; -ms-filter:"alpha(opacity=100)";}
+.basic_page .breadcrumb{display: none}
+.basic_page .region.region-content{padding-left:inherit}
+.basic_page .region.region-content #block-system-main .field-item.even {    padding-right: 20px; padding-left: 0px !important}
+.top-bar-wrapper ul li:nth-child(2){display: none}
+.custom_table td, .custom_table th, .custom_table table{border:1px solid; }
+.custom_table td p, .custom_table th{padding-left: 5px !important; padding-right: 5px !important;}
+.node-type-clubs-and-organizations .left-menu-page .left_bg #sidebarmenu-accordion .panel-default{display: none}
+.node-type-clubs-and-organizations .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1){display: block !important}
+.node-type-our-clubs .left-menu-page .left_bg #sidebarmenu-accordion .panel-default{display: none}
+.node-type-our-clubs .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1){display: block !important}
+.node-type-inside-rit .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1){display: none}
+
+
+.node-type-clubs-and-organizations .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1) .accord{display: none}
+.node-type-clubs-and-organizations .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1) .accord:nth-child(1){display: block !important;}
+
+.page-node-177.node-type-inside-rit .left-menu-page .left_bg #sidebarmenu-accordion .panel-default{display: none}
+.page-node-177.node-type-inside-rit .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1){display: block !important}
+.page-node-192.node-type-inside-rit .left-menu-page .left_bg #sidebarmenu-accordion .panel-default{display: none}
+.page-node-192.node-type-inside-rit .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1){display: block !important}
+.page-node-193.node-type-inside-rit .left-menu-page .left_bg #sidebarmenu-accordion .panel-default{display: none}
+.page-node-193.node-type-inside-rit .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1){display: block !important}
+.page-node-194.node-type-inside-rit .left-menu-page .left_bg #sidebarmenu-accordion .panel-default{display: none}
+.page-node-194.node-type-inside-rit .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1){display: block !important}
+.page-node-195.node-type-inside-rit .left-menu-page .left_bg #sidebarmenu-accordion .panel-default{display: none}
+.page-node-195.node-type-inside-rit .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1){display: block !important}
+.page-node-197.node-type-inside-rit .left-menu-page .left_bg #sidebarmenu-accordion .panel-default{display: none}
+.page-node-197.node-type-inside-rit .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1){display: block !important}
+/*START 05-12-2019*/
+.page-node-131 #block-system-main table {
+    border: 4px solid gray;
+}
+.page-node-131 #block-system-main table tr{
+	border: 2px solid gray;
+}
+.page-node-131 #block-system-main table td{
+	border: 2px solid gray;
+	padding: 15px;
+}
+/*END 05-12-2019*/
+/*START 06-12-2019*/
+.page-node-224 .resource .custom-request {
+    display: none;
+}
+/*END 06-12-2019*/
+/*START 09-12-2019*/
+#block-views-media-center-block .view-media-center{
+	display: grid;
+}
+#block-views-media-center-block .view-footer p{
+    text-align: end;
+}
+#block-views-media-center-block .view-footer p a {
+    padding: 10px;
+    background: #ed6e20;
+    color: white !important;
+}
+#block-views-media-center-block .view-footer p a:hover {
+    padding: 10px;
+    background: black;
+    color: white !important;
+}
+.col-md-12.custom-news {
+    margin: 15px;
+}
+a.views-more-link {
+    display: block;
+    text-align: end;
+}
+/*END 09-12-2019*/
+/*START 10-12-2019*/
+#block-views-media-center-block-2 .custom-title {
+    text-align: left;
+}
+/*END 10-12-2019*/
+/*START 11-12-2019*/
+article#node-636 {
+    text-align: center;
+}
+.view-id-indide_rit.view-display-id-block_2 .views-row-33 a,
+.view-id-indide_rit.view-display-id-block_2 .views-row-34 a,
+.view-id-indide_rit.view-display-id-block_2 .views-row-35 a,
+.view-id-indide_rit.view-display-id-block_2 .views-row-36 a,
+.view-id-indide_rit.view-display-id-block_2 .views-row-37 a,
+.view-id-indide_rit.view-display-id-block_2 .views-row-38 a,
+.view-id-indide_rit.view-display-id-block_2 .views-row-39 a,
+.view-id-indide_rit.view-display-id-block_2 .views-row-40 a,
+.view-id-indide_rit.view-display-id-block_2 .views-row-41 a,
+.view-id-indide_rit.view-display-id-block_2 .views-row-42 a,
+.view-id-indide_rit.view-display-id-block_2 .views-row-43 a
+{
+	pointer-events: auto;
+    cursor: pointer;
+}
+.page-node-636 .left_bg{
+	display: none;
+}
+/*END 11-12-2019*/
+/*START 16-12-2019*/
+.page-node-644 img {
+	margin: 0 auto;
+    padding: 10px;
+}
+/*END 16-12-2019*/
+/*START 23-12-2019*/
+#webform-client-form-660 button.webform-next {
+    float: right;
+}
+/*END 23-12-2019*/
+.page-node-281  .image-card-right{display: none}
+#node-341 .field.field-name-body.field-type-text-with-summary.field-label-hidden, .page-node-342 .field.field-name-body.field-type-text-with-summary.field-label-hidden{width: 100%}
+#block-views-indide-rit-block-3 .views-field.views-field-nothing{min-height: 250px}
+.page-node-342 table>tbody>tr>td{border-color: #000; padding-left: 15px;     padding-bottom: 15px;}
+.page-node-122 #accordion-section187 .pull-left{display: none;}
+.left_bg #sidebarmenu-accordion ul{padding-left: 10px !important;}
+.left_bg #sidebarmenu-accordion ul  a {    font-size: 16px;/* color: #f36e21 !important*/ }
+.left_bg #sidebarmenu-accordion ul .accord a{color: #000 !important; padding-left: 15px;}
+.left_bg #sidebarmenu-accordion ul .accord a.active{color: #f36e21 !important;}
+
+@-moz-document url-prefix() {
+    .front .flex-nav-container{margin-top: -50px}
+}
+@-moz-document url-prefix() { select {-webkit-appearance: button; -moz-appearance: button; appearance: button;  text-indent: 0px;  background: url("../images/errow_icon.png") no-repeat scroll 100% 50%   !important; background-size: 7px 9px !important;}   }
+ @media(min-width:768px){
+    .left_new>[class*="col-"] {float: none;vertical-align: top;}
+    #node-26 .form-item-captcha-response{
+        margin-top: 6px !important;
+    }
+}
+@media (min-width: 1700px){.container{ width: 1600px;}
+    #degree-programs{background: url("../images/diploma_xl.jpg")right bottom no-repeat;}
+}
+@media(min-width:768px) and (max-width:991px){.navbar-toggle { display: block;}
+    .navbar-header{float: none;}
+    .navbar-nav>li{float: none;}
+    .navbar-collapse.collapse {display: none !important;padding-bottom: 0; }
+    .navbar-collapse.collapse.in{display: block !important;}
+    #media-center .nav-tabs>li {width: calc(100% / 4); }
+    .node-type-degree-programs .custom-btn{ padding: 15px 10px !important;}
+    .navbar .bg-white{background: #ffffff !important;}
+}
+@media(min-width:1661px) and (max-width:1699px){
+
+    .side-menu:before{left: -100%; }
+    .navbar-default .navbar-nav>li>a, .navbar-default .navbar-nav>li>span{font-size: 15px !important; padding-left: 8px !important; padding-right: 8px !important;}
+    .faculty-profile-detail h4 a{margin-top: 0px;}
+    #navbar-collapse{padding :0 !important;}
+
+}
+@media (min-width: 1200px) and (max-width: 1660px){
+    p.social-icons {white-space: nowrap !important;}
+    .video_tab{min-height: 286px;}
+}
+@media only screen and (max-width: 1660px){span.webform-progressbar-page{left: inherit !important;}
+	.webform-progressbar{width: 100% !important}
+	.webform-progressbar-page{position: inherit; width: 25%}
+	.webform-progressbar-page .webform-progressbar-page-label { position: inherit; top: inherit;  margin: inherit; }
+	.webform-progressbar-page.current { background-color: transparent; border-bottom: 3px solid #f36e21; color: #000000;}
+   .webform-progressbar-page{width: inherit; margin-left: 20px; display: inline;}
+    .side-menu:before { left: -225px; width: 510px;}
+    .custom-btn {padding: 15px 30px !important; margin-right: 0px !important;}
+    .side-menu .panel-title a::before {right: 0px !important; }
+    .region-footer .menu li a {font-size: 12px;  padding-right: 20px;}
+    .faculty-profile-detail h5 { font-size: 13px;}
+    .nav-tabs { border: none; text-align: left;}
+    .academic_heading {font-size: 33px;}
+    .side-menu .panel-title a {font-size: 18px;}
+    .contant-tabs ul.quicktabs-tabs li a {font-size: 15px;padding: 8px 10px;}
+    .accord li a {font-size: 15px;}
+    #admissions ul{text-align:center}
+    .side-menu:before {left: -259px; width: 545px;}
+     .course-title {height: 150px;    }
+    .contact-info-box h3 {font-size: 35px;}
+    .left_bg #sidebarmenu-accordion a{font-size:17px;}
+    .accord li a{font-size: 13px !important}
+    #block-quicktabs-enquiry-contact { padding: 0px 210px 20px 85px;}
+    #block-views-indide-rit-block-3 .views-field.views-field-nothing {        min-height: 180px;    }
+    .navbar-default .navbar-nav>li>a, .navbar-default .navbar-nav>li>span{color: #f36e21; font-size: 14px;font-weight: 600;padding-left: 6px;padding-right: 6px;text-transform: uppercase !important;     line-height: 50px; cursor: pointer;}
+   .facilty_tabs .nav-tabs>li>a{font-size: 13px; padding: 8px}
+   .degree-programs { background-position: 100% 66.6%; }
+   .faculty-profile-detail h4 a {    margin-top: 20px; line-height: 0.9}
+   .page-node-134 .right_content p{line-height: 28px !important; font-size: 17px;}
+   .page-node-134 #block-quicktabs-enquiry-contact{top:77px}
+   .degree-programs::before{background-size:497px !important}
+   .academic h1{font-size: 32px;}
+   .page-directory-page .table-striped > thead > tr > th:nth-child(1){width: 55%}
+   .page-directory-page .table-striped > thead > tr > th:nth-child(2){width: 25%}
+   .page-directory-page .table-striped > thead > tr > th:nth-child(3){width: 20%; text-align: left}
+   .page-directory-page .table > thead > tr > th{font-size: 17px}
+   .form-item .form-control{font-size: 13px;}
+   .page-node-324 .areas-supported .area{min-height: 150px;}
+   .message_img{width: 42%; }
+   .meggase_detail{width: 55%; margin-left: 15px;}
+
+ }
+@media only screen and (max-width: 1600px){.side-menu:before {left: -225px;width: 525px;}
+	.custom-btn {padding: 15px 30px !important;margin-right: 0px !important;}
+	.side-menu .panel-title a::before {right: -10px !important;}
+    .table-responsive tbody td {font-size: 17px; color: #666; font-weight: 300; padding: 11px 0;}
+    .page-user-edit .side-menu:before { left: -75%; width: 500px;}
+
+    .course-title {height: 150px;    }
+    .table-striped > tbody > tr > td {font-size: 15px !important;}
+    @-moz-document url-prefix() { .homebox-type1 .item-list ul li p {  line-height: 17px;   }
+
+}
+
+}
+@media only screen and (max-width: 1440px){.side-menu:before { left: -210px; width: 510px;}
+    .custom-btn {padding: 15px 30px !important; margin-right: 0px !important;}
+    .side-menu .panel-title a::before {right: 0px !important; }
+    .region-footer .menu li a {font-size: 12px;  padding-right: 20px;}
+    .faculty-profile-detail { display: inline-block;}
+    .faculty-profile-detail h5 { font-size: 13px;}
+    .nav-tabs { border: none; text-align: left;}
+    .academic_heading {font-size: 35px;}
+    #block-quicktabs-enquiry-contact { padding: 0px 140px 20px 85px;  }
+    .contant-tabs ul.quicktabs-tabs li a {font-size: 15px;padding: 8px 10px;}
+    #admissions ul{text-align:center}
+    .academic h1{font-size: 33px;}
+}
+@media only screen and (max-width: 1366px){
+    .page-banner {padding: 86px 0;}
+	.homebox-type1 .item-list ul li p {line-height: 16px;}
+	.course-title {background-size: cover;}
+    .row.left_new {width: auto;}
+    #block-quicktabs-enquiry-contact {padding: 0px 100px 20px 85px;}
+}
+@media only screen and (max-width: 1280px){
+    #block-quicktabs-enquiry-contact {        padding: 0px 60px 20px 60px;    }
+    .accordin_content h2{font-size: 20px;}
+    .region.region-header {margin-top: -30px; }
+    #navbar-collapse #nice-menu-2 li ul li { width: 280px; }
+
+}
+@media only screen and (max-width:1199px){
+     #header .navbar-nav.navbar-right{float: none !important; margin: auto; width: fit-content; width: -webkit- fit-content; width: -mox-fit-content; width: -o-fit-content;}
+    .course-title h3{font-size: 14px;}
+    .map-content{position: static; background: #f8f7ed; padding-bottom: 50px;}
+	.side-menu:before { width: 450px;}
+    .faculty-profile-detail {margin-left: 0px; }
+    .page-node-134 .faculty-profile-detail h4 a{font-size: 15px; margin-top: 10px}
+    .page-node-134 .faculty-profile-detail{margin-left: 18px}
+	.region-footer .menu li a{line-height: 25px}
+	#block-quicktabs-front-banner-tabs .quicktabs-wrapper h1 { font-size: 45px;}
+	.contant-tabs ul.quicktabs-tabs li a { font-size: 12px; padding: 8px 8px;}
+    .course-desc .course-desc-container a {font-size: 17px;}
+    .page-search-node #block-system-main #search-form #edit-advanced .criterion .form-type-checkbox{width: 33%;}
+    .contact-info-box { padding: 30px;    }
+    #block-quicktabs-enquiry-contact {        padding: 0px 120px 20px 30px;    }
+    .hidden-md {  display: inline-block !important;  }
+    .side-menu .panel-title a {font-size: 18px !important;}
+    .accord li a {font-size: 15px !important;}
+    .navbar-default .navbar-nav>li>a, .menu .nav .navbar-nav .leaf a, .navbar-default .navbar-nav>li>span {     font-size: 12px !important; padding-left: 1px !important; padding-right: 8px !important;}
+        .field-content a{font-size: 13px}
+        .outreach-box .outreach-caption a {font-size: 17px;}
+        .contact-info-box{width: 40%}
+    .form-item .form-control {font-size: 12px !important; padding: 6px 0px !important;}
+    .profile_detail strong{width: 140px}
+    .footer-map section ul.quicktabs-tabs li:last-child{padding-right: 0px;}
+    .video_tab {        min-height: 290px;    }
+    .page-node-179 .video_tab{min-height: auto !important}
+    p.social-icons{text-align: left}
+    .page-node-324 .areas-supported .area {        min-height: 240px;    }
+    .message_img{width: 47%; }
+.meggase_detail{width: 47%;    margin-left: 30px; }
+#navbar-collapse #nice-menu-2 li ul li { width: 280px; }
+}
+@media only screen and (max-width: 1152px){
+    .video_tab{min-height: 320px;}
+     .accord li a{font-size: 13px}
+    .side-menu ul{padding: 0px}
+    .accord li {  margin-left: 15px; }
+    .accord li a.active::before {  left: -15px;    }
+	.webform-progressbar-page .webform-progressbar-page-label {margin: 0 0px !important;}
+		#quicktabs-container-outreach_activities .views-row-1, #quicktabs-container-outreach_activities .views-row-4, #quicktabs-container-outreach_activities .views-row-5{width: 32%}
+    .faculty-profile-detail h3{margin-top: 0px}
+    .inside_rit_fac_img img{height: 100%;}
+    .page-node-168 .inside-rit .region-content-buttom #block-views-media-center-new-block h3{margin-top: 0px;}
+    .page-node-168 .inside-rit .region-content-buttom #block-views-media-center-new-block p{margin-bottom: 0px;}
+    .page-node-168 .inside-rit .region-content-buttom #block-views-media-center-new-block a{margin-top: 0px; margin-bottom: 15px}
+    #navbar-collapse #nice-menu-2 li ul li { width: 280px; }
+
+}
+@media only screen and (max-width: 1024px){
+    #block-quicktabs-enquiry-contact {        padding: 0px 30px 20px 30px;    }
+    .lab_img{min-height: 200px; margin-bottom: 20px;}
+    .lab_img strong{font-size: 15px;}
+    #navbar-collapse #nice-menu-2 li ul li { width: 280px; }
+ }
+@media only screen and (max-width:991px){
+    #header .navbar-nav.navbar-right{ float: left !important;}
+    .navbar-default .navbar-nav>li>a{line-height: inherit}
+    .navbar-toggle{margin-top: 25px}
+    .navbar-toggle .icon-bar {display: block; width: 22px; height: 2px; border-radius: 1px;}
+    .page-banner {margin-top: 82px !important;     height: 100%;}
+    .region.region-header { margin-top: 125px;}
+    .side-menu:before {width: 397px;}
+    .side-menu:before {height: 100%;}
+    .accord li a {font-size: 14px;}
+    #career{ background: url("../images/career-and-placement-xs.png") bottom right no-repeat;  margin-top: 0;}
+    #about-rit{background: url("../images/about-rit-xs.png") bottom right no-repeat; padding-top: 0;}
+    .white-desc-box{margin-left: 0; width: 100%;}
+    #admissions .white-desc-box{margin-left: -75px; width: calc(100% + 70px);}
+    .section-title{font-size: 30px;}
+    .section-subtitle{font-size: 18px;}
+    .panel-title a {font-size: 18px;}
+    .table-responsive thead tr th {font-size: 17px;}
+	#block-system-main {margin-left: 0px;}
+    .panel-title{padding-right: 0px}
+    .region-footer .menu li{float: none !important;}
+    .table > thead > tr > th { border-bottom: 3px solid #ddd !important; font-size: 16px !important;}
+    .webform-progressbar-page{margin-left: 0px}
+    .webform-progressbar .webform-progressbar-page-label{font-size: 14px}
+    .accord li a{font-size: 12px !important;     font-weight: 600 !important;}
+    #quicktabs-container-outreach_activities .views-row-1, #quicktabs-container-outreach_activities .views-row-4, #quicktabs-container-outreach_activities .views-row-5{width: 50%}
+    #quicktabs-container-outreach_activities .views-row-2, #quicktabs-container-outreach_activities .views-row-3 {width: 49%;}
+    .faculty-profile-detail h3 { font-size: 27px; }
+     .page-search-node #block-system-main #search-form #edit-advanced .criterion .form-type-checkbox { width: 50%;}
+    .left_bg #sidebarmenu-accordion a{font-size: 14px !important}
+      .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {    color: #555;   background-color: inherit;
+    }
+    li.first.expanded.dropdown a{ padding: 10px 10px 10px 0; font-size: 12px !important}
+    .page-node-137 .views-row.views-row-even.col-sm-6{height: 200px;}
+    .page-node-137 .views-row.views-row-odd.col-sm-6{height: 200px;}
+    .navbar-fixed-top-0 {  box-shadow: inherit;   padding: 0; display: none;  }
+   .navbar-nav .open .dropdown-menu {  position: relative !important; width: 100%; padding-left: 20px; }
+   .navbar-fixed-top .navbar-collapse, .navbar-fixed-bottom .navbar-collapse {    max-height: 340px;}
+   .navbar .bg-white nav{max-height: 200px; overflow-y: auto}
+   ul li.collapsed, ul li.expanded, ul li.leaf { list-style: none; line-height: 0px;}
+   .navbar-default .navbar-nav>li>span{line-height: 0px;}
+   ul.menu.nav.navbar-nav {    padding: 20px 0 10px !important;}
+   /*.menu.nav.navbar-nav .leaf a, li.first.expanded.dropdown a {    padding: 4px 0px 4px 0px !important;}*/
+   .navbar-default .navbar-nav>li>span{padding-left: 0px !important}
+   .navbar-nav .expanded .dropdown-toggle {   padding-bottom: 10px;}
+   .navbar-default .navbar-nav>li>a, .menu .nav .navbar-nav .leaf a, .navbar-default .navbar-nav>li>span{font-size: 13px !important;}
+   .degree-programs { background-position: 100% 50.8%; }
+   .degree-programs::before {top: 288px;}
+   .page-node-134 .inside_rit_fac_img { width: 100%; }
+   .page-node-134 .faculty-profile-detail {    width: 100%; min-height: 140px;}
+   .page-node-134 .faculty-profile-detail h4 a, .page-node-134 .faculty-profile-detail h4{margin-top: 0px;}
+   .footer-map #block-quicktabs-enquiry-contact {    width: 100%;}
+   #block-quicktabs-enquiry-contact{top: 0}
+   .contact-info-box {    width: 100%;}
+   .node-type-degree-programs .custom-btn { font-size: 13px;}
+   .region-top-bar{padding:0 !important;}
+   .contact-info-box h3{margin-top: 6px}
+   .region.region-content{padding-left: 0px}
+   .profile_detail strong{display: block; width: 100%}
+   ul.quicktabs-tabs li{padding: 10px 10px 0 0;}
+   .contant-tabs ul.quicktabs-tabs li a {    font-size: 15px;    padding: 5px 8px;}
+   .form-item.webform-component.webform-component-date.webform-component--graduation.form-group.form-item.form-item-submitted-graduation.form-type-date.form-group {    width: 100%;}
+   .video_tab img {    width: 100%;}
+   .page-node-324 .areas-supported .area {    min-height: 200px;}
+   .message_img{width: 100%}
+
+   .meggase_detail{width: 100%; margin-left: 15px}
+   @-moz-document url-prefix() {    .front .flex-nav-container{margin-top: 0px}}
+
+
+}
+@media only screen and (max-width:768px){#banner .banner-caption{ position: static;}
+    .nav-tabs>li{float: none;}
+    .banner-caption .nav-tabs>li{float: left;}
+	.banner-caption .nav-tabs>li>a{ font-size: 13px; padding: 15px 10px;float: left;}
+    #banner .tab-content h1{font-size: 30px;}
+    #banner .tab-content h3{font-size: 18px !important;}
+    #admissions .white-desc-box{width: 100%;margin-left: 0;}
+    .outreach-box img{ width: 100%;}
+    #media-center .nav-tabs>li{ width: 100%;}
+    footer .nav>li{padding-left: 15px;}
+    p.social-icons{ text-align: left;}
+	#career, #about-rit{background-position: 30px bottom;}
+    .career-content-box p a{margin-top: 0px}
+    .page-node-102 .side-menu .panel-title a::before { right: -10px !important;   }
+.page-node-111 .side-menu .panel-title a::before { right: -0px !important; padding-right: 0px;}
+#block-views-media-center-block{width: 100%}
+
+}
+@media only screen and (max-width:767px){
+    .register-box, .login-box{position: static;transform: none;margin: auto;}
+    .login{min-height: 100vh;height: initial !important;padding:15px; }
+    .page-banner { margin-top: 0px !important;}
+    .region.region-header {margin-top: 44px;}
+    .navbar-toggle {        margin: 10px 10px;    }
+    .side-menu { padding: 20px 0;}
+    .side-menu .panel.panel-default:last-child{padding-bottom: 15px}
+    .side-menu:before { width: 100%; height: 100%; left: 0px; }
+	div#sidebarmenu-accordion{position: initial}
+	section.inside-rit { padding-left: 0px; }
+	.panel-group { margin-bottom: 0px; }
+	.field-content{display: inline-block; width: 100%;}
+	.faculty-profile-detail{margin-left: 10px}
+	.views-row.views-row-3.views-row-odd.views-row-last.col-sm-6 { margin-top: 0px;}
+	.inside_faculty img{height: auto; width: 100%}
+    .faculty-profile-detail { margin-left: 15px; margin-top: 25px;}
+    .right_content .inside_rit_faculty .faculty-profile-detail{width: 100%}
+	.inside_rit_img { margin-bottom: 30px; width:100%;}
+	.resource{margin-top: 30px }
+	.custom-btn {padding: 15px 30px !important; width: 100%;display: inline-block; text-align: center; margin: 10px 0px; font-size: 15px}
+	.table-responsive{border: none !important}
+	.table-responsive thead tr th {font-size: 15px;}
+	.text-list li::before {padding-right: 8px; position: inherit; left: 0px;}
+	.region-content #block-system-main ul li{display: block}
+	#node-26 .form-item.webform-component{width: 100%;}
+	.not-front .main-content{padding: 0px;}
+	.tab-style-v2 ul.quicktabs-tabs:before{display: none !important}
+	.tab-style-v2 ul.quicktabs-tabs{background: inherit !important}
+	#webform-client-form-149 .form-group{width: 100%}
+	div#edit-submitted-work-experience-personal-data-ajax-wrapper, div#edit-submitted-personal-statement-ajax-wrapper{width: 100% !important}
+	.webform-progressbar-page{display: block; width: 100%}
+ .form-item.webform-component{width: 100%}
+	#edit-submitted-other-credentials-ajax-wrapper, #edit-submitted-passport-copy-ajax-wrapper, #edit-submitted-personal-statement1-ajax-wrapper, #edit-submitted-sat-if-completed-ajax-wrapper, #edit-submitted-school-transcript-ajax-wrapper, #edit-submitted-toefl-or-ielts-ajax-wrapper{width: 100%}
+	.page-banner-inner h1{font-size: 30px}
+	.webform-progressbar-page{width: 90%}
+	.page-node-26 .region.region-content{padding: 0px}
+	#collapse200 .table-responsive{border:0px;}
+	#admissions .tab-content #nodetab-121 p :first-child{  float: none;}
+	#quicktabs-container-outreach_activities .views-row-1, #quicktabs-container-outreach_activities .views-row-4, #quicktabs-container-outreach_activities .views-row-5{width: 100%; display:inline-block;}
+	#quicktabs-container-outreach_activities .views-row-2, #quicktabs-container-outreach_activities .views-row-3 {width: 100%; display: inline-block}
+	.login-box {width: 100%;}
+	.login { height: 480px}
+	.row.left_new{display: block;}
+	p{font-size: 15px}
+	.node-type-degree-programs .custom-btn {margin: 10px 0;}
+    #block-views-indide-rit-block-2 .views-row.views-row-3.views-row-odd.views-row-last.col-sm-6{margin-top: 0px}
+    .inside_rit_faculty {margin-left: 0px;width: 100%;}
+    .webform-progressbar-outer{display: inline-block;justify-content: center; width: 93%}
+    .page-user-edit .side-menu:before {left: 0%;  width:100%; height: calc(100% + 0px);}
+    .navbar-default .navbar-toggle {border: none; position: absolute; right: 0;  }
+    .side-menu .panel-title a::before { right: 0px !important; }
+    .field.field-name-field-photo-adv.field-type-image.field-label-above, .field.field-name-body.field-type-text-with-summary.field-label-hidden{width: 100%}
+    .tab-style-v2 ul.quicktabs-tabs li a {width: auto !important;  }
+    .contant-tabs ul.quicktabs-tabs li a { padding: 0px 8px;}
+    .accord li a.active::before { left: -25px;}
+    .side-menu ul { margin-left: 25px;    }
+    #block-system-main .text-center .pagination li{display: inline-block}
+    #block-system-main .search-results .search-result .title a{font-size: 20px;}
+    .page-search-node #block-system-main #search-form #edit-advanced .criterion .form-type-checkbox { width: 100%; }
+    .search-snippet-info { margin-left: 15px; }
+    #details .view-id-media_details .details-box video {width: 100% !important; height: 100% !important; }
+    .page-node-137 .views-row.views-row-even.col-sm-6{height: inherit;}
+    .page-node-137 .views-row.views-row-odd.col-sm-6{height: inherit;}
+    ul.quicktabs-tabs li{padding:inherit}
+    .footer-inner li.first.expanded.dropdown a{border: none; padding: none}
+    .region-top-bar .content-search .form-text{border-bottom: 0px;}
+    .degree-programs::before {        top: 287px;    }
+    .form-group {        margin-top:0px;    }
+    .page-banner {     height: auto; padding: 60px;}
+    .form-item-captcha-response{padding: 5px 0px}
+    .captcha {        width: 100%;        display: inline-block;    }
+    #block-block-8{margin-top: 20px;}
+    .contact-info-box p{    line-height: 30px !important;        font-size: 18px;}
+    .academic img {width:100% !important;  margin: 0 !important;}
+    .webform-container-inline div, .webform-container-inline div.form-item{width: 100%}
+    .accordin_content1 img{margin-bottom: 15px}
+    .page-node-179 .video_tab{margin-bottom: 30px;}
+    .page-node-258 .video_tab img{margin-bottom: auto !important;}
+}
+@media only screen and (max-width:480px){
+    .page-banner {     height: auto; padding: 40px;}
+	#admissions .tab-content #nodetab-121 p a{float:none !important; display: block; text-align: center;}
+	#admissions .nav-tabs li a{font-size: 14px}
+	.faculty-profile-detail {margin-left: 0px;}
+	.panel-title a{font-size: 16px;}
+	.resource p a{display: block; float: none; text-align: center; margin-bottom: 20px;}
+	.footer-map ul.quicktabs-tabs li a {font-size: 13px;}
+	footer .nav>li {padding-left: 10px;}
+	.region-footer .menu li a {font-size: 12px;padding-right: 0px;}
+	ul.quicktabs-tabs li {padding:0px 0px;}
+	.course-desc .course-desc-container {padding: 8px;}
+	.custom-btn { margin: 10px 0px !important;}
+	.searchbar {max-width:250px;}
+	.panel-title>.small, .panel-title>.small>a, .panel-title>a, .panel-title>small, .panel-title>small>a {padding: 10px 0 10px 5px !important; line-height: 20px; display: flex;}
+	.inside_rit_faculty {margin-left: 0px;}
+	.webform-container-inline div, .webform-container-inline div.form-item {padding: 5px 0px !important; min-width: 100% !important;}
+	.btn-default {margin-right: 0px; width: 100%;  margin: 10px 0px;}
+	.profile_detail { margin: 10px 0px;}
+    .faculty-profile-detail h3 {        font-size: 20px;    }
+	.field.field-name-field-photo-adv.field-type-image.field-label-above, .field.field-name-body.field-type-text-with-summary.field-label-hidden {width: 100%; display: inline-block; vertical-align: top;}
+    .academic_heading {        font-size: 30px;    }
+    .search-result a { margin-left: 0px;   }
+    .degree-programs::before {        top: 263px;    }
+    #accordion .panel-default ul {        padding-left: 25px; }
+    .accordin_content img {        width: 100%;        margin: 10px;    }
+    .page-node-255  .accordin_content ul {padding-left : 0px;}
+    div#quicktabs-container-degree_programs {        min-height: 400px; }
+
+}
+@media (min-width:400px) and (max-width:480px){
+    #searchbar-input, #searchbar-input-xs{max-width: 190px !important;}
+
+}
+@media only screen and (max-width:375px){.academic h2 {font-size: 20px;}
+    .academic_heading {font-size: 25px;}
+	.footer-map ul.quicktabs-tabs li a { padding: 15px 10px 7px;}
+	.footer-map ul.quicktabs-tabs li a {font-size: 12px;}
+		.outreach-box img {height: 100%;}
+	.inside_rit_fac_img a, .inside_rit_fac_img{display:inline-block; width: 100% !important}
+    .webform-progressbar .webform-progressbar-page-label{font-size: 15px; margin: 0px !important}
+    .profile_detail strong { width: 50%;}
+    .white-desc-box h2 { font-size: 25px;}
+    .title-v3 {font-size: 18px !important;  }
+    .inside_rit_fac_img img { height: auto; }
+    .search-snippet-info {   margin-left: 0px; }
+    .searchbar { max-width: 150px;    }
+    #searchbar-input, #searchbar-input-xs{width: 130px}
+    .region-top-bar .content-search .form-text { width: 130px !important; }
+    .region-footer .menu li a {    font-size: 11px;    }
+    .you_video iframe{height: auto;}
+}
+@media only screen and (max-width:360px){
+	.profile_detail strong{font-size: 13px !important;}
+	.academic_heading {font-size: 25px;}
+	.region-content #block-system-main ul li {font-size: 14px;}
+	ul.quicktabs-tabs.quicktabs-style-nostyle{display: inline-block !important}
+    ul.quicktabs-tabs.quicktabs-style-nostyle a{padding: 10px 9px !important;}
+    .section-subtitle { font-size: 15px !important;    }
+    .section-title { font-size: 25px !important; }
+    .view-about-rit .views-field-view-node a{font-size: 15px}
+    .form-item .form-control{font-size: 12px}
+    .contant-tabs ul.quicktabs-tabs li a {        line-height: 10px !important;    }
+    .degree-programs::before {   top: 268px;    }
+    .video_tab {        min-height: 250px;    }
+    .message_img img{width: 100%}
+}
+@media only screen and (max-width:320px){.faculty-profile-detail h3 {font-size: 25px;}
+    .profile_detail strong{font-size: 13px !important; width: 40%}
+    .academic_heading {font-size: 28px;}
+
+    .panel-title a {font-size: 15px;}
+    .field-content a {font-size: 13px;}
+    #block-system-main .search-results .search-result .title a {   font-size: 15px;  }
+     .contant-tabs ul.quicktabs-tabs li a {padding: 8px 10px; font-size: 15px;}
+    .searchbar {        max-width: 110px;    }
+    #searchbar-input, #searchbar-input-xs {    width: 110px;    }
+    .region-top-bar .content-search .form-text {width: 100px !important;}
+    .region-footer li.first.expanded.dropdown a, .region-footer .menu li a{font-size: 14px !important;}
+    #admissions .accordin_content ul{padding-left: 20px}
+}
+
+@media(min-width:1200px) and (max-width:1600px){
+    .area-text{
+        padding: 8px 10px !important;
+
+    }
+    .area-half .area-text{
+        height: 74px; /* Fallback for non-webkit */
+        margin: 0 auto;
+        font-size: 15px;
+        line-height: 18px;
+        -webkit-line-clamp:3;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        min-height: 74px !important;
+    }
+    .area-half .area-text div{
+        display: block; /* Fallback for non-webkit */
+        display: -webkit-box;
+        margin: 0 auto;
+        font-size: 15px;
+        line-height: 18px;
+        -webkit-line-clamp:3;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        height: 54px;
+    }
+}
+
+li.dropdown:hover .dropdown-menu {
+    display: block;
+    opacity: 1;
+    visibility: visible;
+}
+.page-node-322 .action-links li a{display: none !important}
+#webform-client-form-26 #edit-submitted-programs, #webform-client-form-326 #edit-submitted-departments{
+     border: none;
+    border-bottom: 1px solid #d3d3cb;
+    padding-bottom: 6px;
+    box-shadow: none;
+    border-radius: 0;
+    background: transparent !important;
+    font-family: 'PT Serif', serif;
+    font-style: italic;
+        font-size: 14px;
+    font-weight: 600; padding-left: 7px !important;
+}
+.column-program {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row-program::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.btn-right-fixed {
+    position: fixed;
+    top: 50%;
+    right: 0;
+    transform: rotate(-90deg);
+    /* -webkit-transform-origin-x: center; */
+    /* -webkit-transform-origin-y: bottom; */
+    margin-right: 0;
+    width: 50px;
+    overflow: visible;
+    z-index: 12125;
+}
+.btn-right-fixed .custom-btn{white-space: nowrap;}
+#admissions-student-referral-program span.custom-btn.pull-right{display: none !important;}
+#admissions-open-day-and-toefl-exam span.custom-btn.pull-right{display: none !important;}
+#admissions-scholarship-tuition span.custom-btn.pull-right{display: none !important;}
+.page-node-131 a.custom-btn.float-right{display: none !important;}
+
+@media(min-width:1601px) and (max-width:1700px){
+    .image-card {
+        position: relative;
+        margin-top: 180px !important;
+    }
+}
+.page-node-102 .faculty-profile-detail h5{font-size: 12px !important;}
+.page-node-105 .faculty-profile-detail h5{font-size: 12px !important;}
+.page-node-108 .faculty-profile-detail h5{font-size: 12px !important;}
+.page-node-104 .faculty-profile-detail h5{font-size: 12px !important;}
+.page-node-106 .faculty-profile-detail h5{font-size: 12px !important;}
+.page-node-103 .faculty-profile-detail h5{font-size: 12px !important;}
+.page-node-109 .faculty-profile-detail h5{font-size: 12px !important;}
+.page-node-111 .faculty-profile-detail h5{font-size: 12px !important;}
+.page-node-113 .faculty-profile-detail h5{font-size: 12px !important;}
+.page-node-107 .faculty-profile-detail h5{font-size: 12px !important;}
+.page-node-110 .faculty-profile-detail h5{font-size: 12px !important;}
+.page-node-118 .faculty-profile-detail h5{font-size: 12px !important;}
+.page-node-117 .faculty-profile-detail h5{font-size: 12px !important;}
+.page-node-343 .faculty-profile-detail h5{font-size: 12px !important;}
+.page-node-343 .resource {display: none !important;}
+
+/*footer ul.menu li:nth-child(3){display: none !important;}*/
+header ul.menu li:nth-child(2){display: none !important;}
+
+@media(min-width:1921px){
+    .side-menu:before {
+        content: " ";
+        position: absolute;
+        top: 0px;
+        left: auto !important;
+        background: #f8f7ed;
+        width: 2000px;
+        height: calc(100% + 198px);
+        z-index: -1;
+        right: 0 !important;
+    }
+}
+.page-node-114 .table td {
+    padding: 21px 0 !important;
+}
+td{vertical-align: middle;} /*Edited by Ahmad fareed*/
+.not-front .page-banner{
+    margin: auto;
+    height: 65vh;
+
+}
+@media screen and (max-width: 480px) {
+  .not-front .page-banner{
+   height:17vh;
+  }
+}
+#block-views-media-center-block .view-media-center .item-list ul li.active-media .views-field-php img {
+
+    border: 4px solid #f36e21 !important;
+
+}
+#block-block-10 .title-v2{
+color:black;
+}
+#block-block-6 .career-content-box p{
+   color: white;
+
+}
+#block-block-6 .career-content-box {
+    background: #f36e21;
+     color: white;
+    padding-left: 40px;
+    margin-left: -35px;
+}
+#block-block-6 .career-content-box{
+
+    background: #f36e21;
+
+}
+
+
+#block-views-media-center-block,
+#block-block-10{
+
+    background: #f8f7ed;
+
+}
+.side-menu .panel-body .accord a{
+
+    background-image: url('../images/black_b.png');
+    background-repeat: no-repeat;
+    background-size: 10px auto;
+    /*padding: 0px 0px 0px 20px;*/
+        padding-right: 0px;
+    background-position-y: 3px;
+
+}
+.side-menu .panel-body .accord a.active::before{
+    content:none !important;
+}
+#collapse565 td:last-child, th:last-child{text-align: left !important;}
+.node-type-inside-rit .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.node-type-clubs-and-organizations .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(3),
+.node-type-clubs-and-organizations .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(4),
+.node-type-clubs-and-organizations .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(5),
+.node-type-clubs-and-organizations .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(6),
+.node-type-clubs-and-organizations .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.node-type-clubs-and-organizations .left-menu-page .left_bg #sidebarmenu-accordion .panel-default #sidemenuone-68 .accord,
+.node-type-degree-programs #sidebarmenu-accordion .panel #sidemenuone-55 .panel-body ul .panel-default:nth-child(3),
+.node-type-our-clubs .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(3)
+{
+
+    display:block !important;
+}
+.node-type-inside-rit .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(3),
+.node-type-inside-rit .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(4),
+.node-type-inside-rit .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(5),
+.node-type-inside-rit .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(6),
+.node-type-inside-rit .left-menu-pagenode-type-our-clubs .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.node-type-inside-rit .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(10),
+.node-type-degree-programs .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(3),
+.node-type-our-clubs .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1),
+.page-node-231 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-231 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(8),
+.page-node-231 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(9),
+#block-menu-menu-footer-menu ul .first.leaf,
+#quicktabs-container-degree_programs .view-id-degree_programs .views-row-11,
+#quicktabs-container-degree_programs .view-id-degree_programs .views-row-12,
+body.front #block-block-22
+{
+
+    display:none !important;
+}
+#admissions-scholarship-tuition #accordion-section132 .table-responsive{
+    height: 100%;
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 100% !important;
+}
+
+footer.footer{
+
+    background: black;
+
+}
+.footer #block-block-15 .copyright{
+    color:white;
+}
+.side-menu .panel-body .accord a.active{
+    background-image: url('../images/orange_b.png');
+    color:#f36e21 !important;
+}
+body.front #block-block-7{
+    margin-bottom: 100px !important;
+}
+.page-node-231 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(4),
+.page-node-231 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1),
+.page-node-231 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(3),
+.page-node-231 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(5),
+.page-node-231 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(6),
+.page-node-325 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(4),
+.page-node-325 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1),
+.page-node-325 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(3),
+.page-node-325 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(5),
+.page-node-325 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(6),
+.page-node-325 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-134 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(4),
+.page-node-134 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1),
+.page-node-134 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(3),
+.page-node-134 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(5),
+.page-node-134 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(6),
+.page-node-134 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-358 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(4),
+.page-node-358 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1),
+.page-node-358 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(3),
+.page-node-358 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(5),
+.page-node-358 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(6),
+.page-node-363 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(4),
+.page-node-363 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1),
+.page-node-363 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(3),
+.page-node-363 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(5),
+.page-node-363 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(6),
+.page-node-232 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(4),
+.page-node-232 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1),
+.page-node-232 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(3),
+.page-node-232 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(5),
+.page-node-232 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(6),
+.page-node-171 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(4),
+.page-node-171 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1),
+.page-node-171 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(3),
+.page-node-171 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(5),
+.page-node-171 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(6),
+
+.page-node-355 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(4),
+.page-node-355 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1),
+.page-node-355 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(3),
+.page-node-355 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(5),
+.page-node-355 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(6),
+
+.page-node-357 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(4),
+.page-node-357 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1),
+.page-node-357 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(3),
+.page-node-357 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(5),
+.page-node-357 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(6),
+
+.page-node-357 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(4),
+.page-node-357 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1),
+.page-node-357 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(3),
+.page-node-357 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(5),
+.page-node-357 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(6),
+
+
+.page-node-136 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(4),
+.page-node-136 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1),
+.page-node-136 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(3),
+.page-node-136 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(5),
+.page-node-136 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(6),
+
+
+.page-node-199 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(4),
+.page-node-199 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1),
+.page-node-199 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(3),
+.page-node-199 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(5),
+.page-node-199 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(6),
+
+.page-node-356 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(4),
+.page-node-356 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1),
+.page-node-356 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(3),
+.page-node-356 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(5),
+.page-node-356 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(6){
+
+    display:block !important;
+}
+.page-node-136 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-136 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(8),
+.page-node-136 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(9),
+.page-node-199 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-199 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(8),
+.page-node-199 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(9),
+.page-node-357 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-357 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(8),
+.page-node-357 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(9),
+.page-node-356 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-356 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(8),
+.page-node-356 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(9),
+.page-node-355 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-355 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(8),
+.page-node-355 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(9),
+.page-node-325 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-325 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(8),
+.page-node-325 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(9),
+.page-node-134 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-134 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(8),
+.page-node-134 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(9),
+.page-node-358 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-358 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(8),
+.page-node-358 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(9),
+.page-node-363 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-363 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(8),
+.page-node-363 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(9),
+.page-node-232 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-232 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(8),
+.page-node-232 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(9)
+{
+    display:none !important;
+}
+#navbar .navbar-brand img {
+    max-height: 45px;
+	width: 275px;
+    height: 45px;
+	padding: 0 !important;
+}
+
+.page-node-135 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(4),
+.page-node-135 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1),
+.page-node-135 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(3),
+.page-node-135 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(5),
+.page-node-135 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(6),
+.page-node-135 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-137 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(4),
+.page-node-137 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1),
+.page-node-137 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(3),
+.page-node-137 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(5),
+.page-node-137 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(6),
+.page-node-137 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-353 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(4),
+.page-node-353 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1),
+.page-node-353 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(3),
+.page-node-353 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(5),
+.page-node-353 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(6),
+.page-node-353 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-359 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(4),
+.page-node-359 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1),
+.page-node-359 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(3),
+.page-node-359 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(5),
+.page-node-359 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(6),
+.page-node-359 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-361 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(4),
+.page-node-361 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1),
+.page-node-361 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(3),
+.page-node-361 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(5),
+.page-node-361 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(6),
+.page-node-361 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-362 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(4),
+.page-node-362 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1),
+.page-node-362 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(3),
+.page-node-362 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(5),
+.page-node-362 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(6),
+.page-node-362 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-360 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(4),
+.page-node-360 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1),
+.page-node-360 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(3),
+.page-node-360 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(5),
+.page-node-360 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(6),
+.page-node-360 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-354 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(4),
+.page-node-354 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1),
+.page-node-354 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(3),
+.page-node-354 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(5),
+.page-node-354 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(6),
+.page-node-354 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7){
+    display: block !important;
+}
+.page-node-135 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-135 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(8),
+.page-node-135 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(9),
+.page-node-353 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-353 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(8),
+.page-node-353 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(9),
+.page-node-137 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-137 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(8),
+.page-node-137 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(9),
+.page-node-354 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-354 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(8),
+.page-node-354 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(9),
+.page-node-362 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-362 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(8),
+.page-node-362 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(9),
+.page-node-361 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-361 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(8),
+.page-node-361 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(9),
+.page-node-360 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-360 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(8),
+.page-node-360 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(9),
+.page-node-359 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-359 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(8),
+.page-node-359 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(9),
+.page-node-171 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-171 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(8),
+.page-node-171 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(9){
+    display: none !important;
+}
+#navbar-collapse #nice-menu-2 li a {
+    font-size: 14px !important;
+    padding: 9px;
+}
+.page-node-197 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-195 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-194 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-193 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-192 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-177 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.node-type-inside-rit .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11){
+    display: none !important;
+}
+.page-node-177 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(4),
+.page-node-177 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(3),
+.page-node-177 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(5),
+.page-node-177 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(6),
+.page-node-177 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-192 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(4),
+.page-node-192 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(3),
+.page-node-192 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(5),
+.page-node-192 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(6),
+.page-node-192 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-193 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(4),
+.page-node-193 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(3),
+.page-node-193 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(5),
+.page-node-193 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(6),
+.page-node-193 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-194 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(4),
+.page-node-194 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(3),
+.page-node-194 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(5),
+.page-node-194 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(6),
+.page-node-194 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-195 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(4),
+.page-node-195 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(3),
+.page-node-195 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(5),
+.page-node-195 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(6),
+.page-node-195 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-197 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(4),
+.page-node-197 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(3),
+.page-node-197 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(5),
+.page-node-197 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(6),
+.page-node-197 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7){
+    display: block !important;
+}
+.page-node-253 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11),
+.page-node-258 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11),
+.page-node-257 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11),
+.page-node-256 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11),
+.page-node-252 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11),
+.page-node-251 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11),
+.page-node-249 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11),
+.page-node-255 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11),
+.page-node-349 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11),
+.page-node-376 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11),
+.page-node-375 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11),
+.page-node-347 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11){
+    display: block !important;
+}
+.page-node-253 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-258 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-347 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-257 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-256 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-252 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-251 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-249 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-255 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-349 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-253 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-376 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-375 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-345 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7){
+    display: none !important;
+}
+
+.page-node-343 .left-menu-page .left_bg #sidebarmenu-accordion .panel-collapse .panel-default:nth-child(3),
+.page-node-364 .left-menu-page .left_bg #sidebarmenu-accordion .panel-collapse .panel-default:nth-child(3),
+.page-node-105 .left-menu-page .left_bg #sidebarmenu-accordion .panel-collapse .panel-default:nth-child(3),
+.page-node-104 .left-menu-page .left_bg #sidebarmenu-accordion .panel-collapse .panel-default:nth-child(3),
+.page-node-106 .left-menu-page .left_bg #sidebarmenu-accordion .panel-collapse .panel-default:nth-child(3),
+.page-node-103 .left-menu-page .left_bg #sidebarmenu-accordion .panel-collapse .panel-default:nth-child(3),
+.page-node-109 .left-menu-page .left_bg #sidebarmenu-accordion .panel-collapse .panel-default:nth-child(3),
+.page-node-111 .left-menu-page .left_bg #sidebarmenu-accordion .panel-collapse .panel-default:nth-child(3),
+.page-node-110 .left-menu-page .left_bg #sidebarmenu-accordion .panel-collapse .panel-default:nth-child(3),
+.page-node-107 .left-menu-page .left_bg #sidebarmenu-accordion .panel-collapse .panel-default:nth-child(3),
+.page-node-102 .left-menu-page .left_bg #sidebarmenu-accordion .panel-collapse .panel-default:nth-child(3),
+.page-node-108 .left-menu-page .left_bg #sidebarmenu-accordion .panel-collapse .panel-default:nth-child(3){
+    display: block !important;
+}
+
+.footer-map.section{
+    background: white !important;
+}
+
+#block-block-10 {position: relative;}
+#block-block-10:before {content: ''; /*width: calc((100% - 1207px) / 2) ;*/ height: 100%; background: #f8f7ed; position: absolute; left: 0; top: 0; display: block;}
+
+/* START 27-11-2019 */
+.page-node-253 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-258 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-257 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-256 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-252 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-251 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-249 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-255 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-376 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-375 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-349 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-408 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1),
+.page-node-408 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(3),
+.page-node-408 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(4),
+.page-node-408 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(5),
+.page-node-408 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(6),
+.page-node-440 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1),
+.page-node-440 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(3),
+.page-node-440 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(4),
+.page-node-440 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(5),
+.page-node-440 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(6),
+.page-node-349 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1),
+.page-node-349 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(3),
+.page-node-349 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(4),
+.page-node-349 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(5),
+.page-node-349 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(6),
+.page-node-255 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1),
+.page-node-255 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(3),
+.page-node-255 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(4),
+.page-node-255 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(5),
+.page-node-255 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(6) {
+	display: block !important;
+}
+
+.page-node-408 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-408 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(8),
+.page-node-408 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(9),
+.page-node-440 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-440 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(8),
+.page-node-440 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(9),
+.page-node-349 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-349 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(8),
+.page-node-349 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(9),
+.page-node-201 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-201 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(8),
+.page-node-201 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(9),
+.page-node-255 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-255 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(8),
+.page-node-255 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(9) {
+	display: none !important;
+}
+
+.page-node-281 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1) .accord {
+	display: block;
+}
+
+.page-node-202 .view-page-banner.view-id-page_banner {
+	display: none;
+}
+
+.page-node-134 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-137 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-135 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-440 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-281 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-325 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-408 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-197 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-195 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-194 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-193 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-192 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-231 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-199 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-136 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-358 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-357 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-356 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-355 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-363 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-353 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-362 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-361 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-360 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-359 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-201 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-201 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(10),
+.page-node-200 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-200 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-200 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(8),
+.page-node-200 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(9),
+.page-node-200 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(10),
+.page-node-141 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-141 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-141 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(8),
+.page-node-141 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(9),
+.page-node-141 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(10),
+.page-node-140 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-140 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-140 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(8),
+.page-node-140 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(9),
+.page-node-140 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(10),
+.page-node-139 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-139 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-139 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(8),
+.page-node-139 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(9),
+.page-node-139 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(10),
+.page-node-138 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-138 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-138 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(8),
+.page-node-138 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(9),
+.page-node-138 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(10),
+.node-type-faculty-profiles .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.node-type-faculty-profiles .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.node-type-faculty-profiles .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(8),
+.node-type-faculty-profiles .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(9),
+.node-type-faculty-profiles .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(10),
+.page-node-354 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-227 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-227 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-227 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(8),
+.page-node-227 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(9),
+.page-node-227 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(10),
+.page-node-228 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-228 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-228 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(8),
+.page-node-228 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(9),
+.page-node-228 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(10),
+.page-node-229 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-229 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-229 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(8),
+.page-node-229 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(9),
+.page-node-229 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(10),
+.page-node-230 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-230 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-230 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(8),
+.page-node-230 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(9),
+.page-node-230 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(10),
+.page-node-349 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7) {
+	display: none !important;
+}
+
+/*.node-type-inside-rit .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7) {
+	display: none !important;
+}	*/
+
+/* END 27-11-2019 */
+
+/* START 08-12-2019 */
+.page-node-255 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1),
+.page-node-255 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(3),
+.page-node-255 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(4),
+.page-node-255 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(5),
+.page-node-255 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(6),
+.page-node-349 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1),
+.page-node-349 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(3),
+.page-node-349 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(4),
+.page-node-349 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(5),
+.page-node-349 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(6)
+ {
+	display: none !important;
+}
+.page-node-255 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-255 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-255 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(8),
+.page-node-255 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(9),
+.page-node-349 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-349 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-349 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(8),
+.page-node-349 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(9) {
+	display: block !important;
+}
+/* END 08-12-2019 */
+
+/* START 19-12-2019 */
+.node-type-degree-programs .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1) #sidemenuone-133 .panel-default:nth-child(3) {
+	display: block !important;
+}
+
+.node-type-inside-rit .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11),
+.node-type-inside-rit .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(12),
+.page-node-177 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7) {
+	display: none !important;
+}
+
+.page-node-134 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11),
+.page-node-134 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(12),
+.page-node-137 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11),
+.page-node-137 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(12),
+.page-node-135 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11),
+.page-node-135 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(12),
+.page-node-281 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11),
+.page-node-281 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(12),
+.page-node-197 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11),
+.page-node-197 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(12),
+.page-node-408 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11),
+.page-node-408 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(12),
+.page-node-195 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11),
+.page-node-195 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(12),
+.page-node-440 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11),
+.page-node-440 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(12),
+.page-node-194 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11),
+.page-node-194 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(12),
+.page-node-193 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11),
+.page-node-193 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(12),
+.page-node-192 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11),
+.page-node-192 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(12),
+.page-node-177 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11),
+.page-node-177 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(12),
+.page-node-231 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11),
+.page-node-231 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(12),
+.page-node-199 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11),
+.page-node-199 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(12),
+.page-node-136 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11),
+.page-node-136 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(12),
+.page-node-358 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11),
+.page-node-358 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(12),
+.page-node-357 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11),
+.page-node-357 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(12),
+.page-node-356 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11),
+.page-node-356 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(12),
+.page-node-355 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11),
+.page-node-355 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(12),
+.page-node-363 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11),
+.page-node-363 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(12),
+.page-node-353 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11),
+.page-node-353 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(12),
+.page-node-362 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11),
+.page-node-362 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(12),
+.page-node-361 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11),
+.page-node-361 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(12),
+.page-node-360 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11),
+.page-node-360 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(12),
+.page-node-359 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11),
+.page-node-359 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(12),
+.page-node-354 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11),
+.page-node-354 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(12),
+.page-node-325 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11),
+.page-node-325 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(12) {
+	display: block !important;
+}
+
+.page-node-652 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1),
+.page-node-652 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(3),
+.page-node-652 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(4),
+.page-node-652 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(5),
+.page-node-652 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(6),
+.page-node-652 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11),
+.page-node-652 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(12),
+.page-node-656 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1),
+.page-node-656 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(3),
+.page-node-656 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(4),
+.page-node-656 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(5),
+.page-node-656 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(6),
+.page-node-656 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11),
+.page-node-656 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(12),
+.page-node-668 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(1),
+.page-node-668 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(3),
+.page-node-668 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(4),
+.page-node-668 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(5),
+.page-node-668 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(6),
+.page-node-668 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(11),
+.page-node-668 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(12) {
+	display: block !important;
+}
+
+.page-node-652 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-652 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-652 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(8),
+.page-node-652 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(9),
+.page-node-652 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(10),
+.page-node-656 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-656 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-656 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(8),
+.page-node-656 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(9),
+.page-node-656 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(10),
+.page-node-668 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.page-node-668 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(7),
+.page-node-668 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(8),
+.page-node-668 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(9),
+.page-node-668 .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(10) {
+	display: none !important;
+}
+
+.node-type-outreach-activities .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2),
+.node-type-outreach-activities .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(3) {
+	display: none !important;
+}
+
+/* END 19-12-2019 */
+
+/* START 24-12-2019 */
+.node-type-webform .webform-next{
+	float: right;
+}
+/* END 24-12-2019 */
+
+@media (min-width: 992px) {
+	#block-block-10:before {width: calc((100% - 1207px) / 2); /*calc((100% - 1010px) / 2)*/ }
+}
+@media (min-width: 1700px) {
+	#block-block-10:before {width: calc((100% - 1638px) / 2);}
+}
+@media (min-width: 1900px) {
+	#block-block-10:before {width: calc((100% - 1639px) / 2);}
+}
+@media (max-width: 1024px) {
+	.container {width: 100%;}
+}
+#block-block-6,
+#block-block-7{
+    background-size: 70% !important;
+}
+.degree-programs::before {
+    background-size: 40% !important;
+}
+.page-banner{
+    background-repeat: no-repeat !important;
+}
+.academic table td span,
+.academic table td p,
+.academic table td{
+    /*color:#666666 !important;*/
+font-size: 17px !important;
+font-family: 'Montserrat', sans-serif !important;
+font-weight: 300 !important;
+}
+.academic table{
+    width: 100% !important;
+min-width: 100% !important;
+}
+.video_tab h4{
+    display: block;
+    min-height: 100px !important;
+}
+.views-field-field-email-reception{
+    color: #F36E22;
+    font-weight: 500;
+}
+.academic_heading{
+    display:none !important;
+}
+#block-system-main{
+    padding-top: 22px;
+}
+
+/* START 20-01-2020 */
+.white-desc-box a {
+	margin:0;
+}
+/* END 20-01-2020 */
+
+.node-type-clubs-and-organizations .left-menu-page .left_bg #sidebarmenu-accordion .panel-default:nth-child(2) {
+   display: block !important;
+}
+
+#quicktabs-degree_programs .item-list ul {
+	display: flex;
+    flex-flow: row wrap;
+    justify-content: start;
+}
+
+/*Edited by Ahmad Fareed*/
+#quicktabs-degree_programs .item-list ul li.col-lg-2 {
+	display: block !important;
+}
+
+@media (min-width: 1200px) {
+	#quicktabs-degree_programs .item-list ul li.col-lg-2 {
+		width: 17.666667% !important;
+	}
+}
+
+@media (min-width: 992px) {
+	#quicktabs-degree_programs .item-list ul li.col-lg-2 {
+		width: 17.666667% !important;
+	}
+}
+.basic_page .block-system {
+    display: flex;
+}
+.page-search-node .basic_page .block-system {
+    display: block !important;
+}
+.page-search-node .search-info {
+	display: none;
+}
+.basic_page .region.region-content { padding-left: 0; }
+
+/*--------Table Alignments on Mechanical Engineering--------*/ /*by Ahmad*/
+.page-node-113 #collapseThree .panel-body table:not(:first-child) tbody tr:not(:first-child) td:last-child p,
+.page-node-113 #collapseThree .panel-body table:not(:first-child) tbody tr:last-child td p
+{
+	text-align: left !important;
+}
+
+.page-node-118 #collapseThree .panel-body table tbody tr td:not(:nth-child(2)) {
+    width: 25% !important;
+    height: 59px;
+}
+.page-node-118 #collapseThree .panel-body table tbody tr td p, 
+.page-node-118 #collapseThree .panel-body table tbody tr td span {
+    margin: 5px 0 !important;
+}
+.page-node-118 #collapseThree .panel-body table:first-child tbody tr:last-child {
+    background: #f26e06 !important;
+}
+.page-node-118 #collapseThree .panel-body table:not(:first-child) tbody tr:last-child {
+	background-color: inherit;
+}
+.page-node-118 #collapseThree .panel-body table:not(:first-child) tbody tr:last-child td p { 
+    color: #666666 !important;
+}
+.page-node-118 table.left-align tbody tr:last-child td:not(:last-child) p {
+    text-align: left !important;
+}
+.page-node-118 #collapseThree .panel-body table:nth-child(1) tbody tr:last-child td:not(:last-child) p {
+    text-align: center !important;
+}
+
+/*-------------------Default css for tables-------------------*/
+/*table.custom-table {
+    margin-bottom: 35px;
+    border-spacing: inherit;
+}
+table.custom-table tr td {
+	color: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+    vertical-align: middle;
+    border: inherit;
+}
+.custom-table img {
+	vertical-align: middle;
+}
+.custom-table .h4, h4, .custom-table h4 strong {
+    font-size: inherit;
+}
+.field.field-name-body.field-type-text-with-summary.field-label-hidden .custom-table p {
+    margin-top: 16px;
+    line-height: 15px;
+    font-size: 10px;
+}
+.custom-table p {
+    text-align: inherit;
+}
+.custom-table p:last-child {
+    margin-bottom: 0;
+}
+.custom-table td:last-child {
+	text-align: inherit;
+}
+strong {color: inherit; }
+table.custom-table>tbody>tr>td, table.custom-table>tbody>tr>th, table.custom-table>tfoot>tr>td, .table.custom-table>tfoot>tr>th, table.custom-table>thead>tr>td, table.custom-table>thead>tr>th {
+    border-bottom: inherit;
+    border: inherit; 
+}*/
+
+/*Habib Code*/
+.withoutchild{
+	color: #f36e21 !important;
+}
+
+/*--------------Prepareable stuff--------------*/

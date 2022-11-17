@@ -1,0 +1,480 @@
+.image-card-left .image-card-img,
+.image-card-right .card-count {
+	text-align: right
+}
+
+#block-nice-taxonomy-menu-ntm-1 ul.ntm-categ-list li.ntm-top-element a:link,
+ul.ntm-categ-list li.ntm-top-element a:visited {
+	color: #000;
+	padding: 5px;
+	font-size: 18px
+}
+
+#block-nice-taxonomy-menu-ntm-1 ul.ntm-categ-list li.ntm-top-element {
+	list-style: none;
+	font-weight: 600;
+	padding-bottom: 15px;
+	font-size: 18px
+}
+
+#block-nice-taxonomy-menu-ntm-1 ul.ntm-subcat-list li a:link,
+ul.ntm-subcat-list li a:visited {
+	padding-left: 20px;
+	font-size: 15px
+}
+
+aside.left-sidebar::after {
+	content: " ";
+	position: absolute;
+	top: 0;
+	left: initial;
+	background: #f8f7ed;
+	width: 1024px;
+	height: 100%;
+	z-index: -1;
+	right: 0
+}
+
+#block-nice-taxonomy-menu-ntm-1 .ntm-list-spacer {
+	position: absolute;
+	right: 50px
+}
+
+#block-system-main .field-item.even {
+	padding-left: 20px
+}
+
+#block-block-14 p {
+	font-size: 50px;
+	color: #000;
+	line-height: 38px
+}
+
+.ad-text h3 {
+	font-weight: 600
+}
+
+.ad-text .ui-accordion .ui-accordion-header {
+	font-size: 26px;
+	padding: 1em 2em
+}
+
+.ui-icon-triangle-1-e {
+	background-position: -32px -126px!important
+}
+
+.ui-icon-triangle-1-s {
+	background-position: -64px -126px!important
+}
+
+.ui-state-default,
+.ui-widget-content .ui-state-default,
+.ui-widget-header .ui-state-default {
+	border: none!important;
+	background: 0 0!important;
+	font-weight: 400;
+	color: #000;
+	border-left: 3px solid #fff!important
+}
+
+.ui-state-active,
+.ui-widget-content .ui-state-active,
+.ui-widget-header .ui-state-active {
+	background: #f2f2f2!important;
+	border-left: 3px solid #f36e21!important;
+	border-radius: 0!important
+}
+
+.ui-accordion .ui-accordion-content {
+	border: 0!important
+}
+
+.table>thead>tr>th {
+	border-bottom: 3px solid #ddd!important;
+	font-size: 21px
+}
+
+.table-striped>tbody>tr:nth-of-type(odd) {
+	background-color: #fff!important
+}
+
+.table-striped>tbody>tr>td {
+	line-height: 70px!important;
+	font-size: 17px
+}
+
+#block-block-17 ul li {
+	list-style: none
+}
+
+#block-block-17 ul li:first-child {
+	float: left
+}
+
+#block-block-17 ul li:last-child {
+	float: right
+}
+
+#block-block-17 ul li .custom-btn {
+	color: #fff!important;
+	padding: 0 40px;
+	background: #f36e21;
+	border-radius: 0;
+	margin-right: 15px;
+	line-height: 54px;
+	display: inline-block;
+	font-weight: 600;
+	letter-spacing: 1.5px;
+	text-transform: uppercase
+}
+
+h1.card-count,
+h4.color-grey {
+	font-style: normal;
+	line-height: normal
+}
+
+#block-system-main .views-field h1.field-content {
+	margin-bottom: 30px
+}
+
+#block-system-main strong.views-label {
+	font-size: 26px;
+	font-weight: 700;
+	padding: 40px 0 10px;
+	display: inline-block
+}
+
+#block-system-main .view-content table {
+	background-color: transparent;
+	width: 100%
+}
+
+#block-system-main .view-content table td[class*=col-],
+table th[class*=col-] {
+	position: relative;
+	display: table-cell;
+	width: 50%;
+	float: left
+}
+
+#block-system-main .view-content table>tbody>tr {
+	padding-bottom: 58px;
+	display: inline-block;
+	width: 100%
+}
+
+#block-system-main .view-display-id-page .table-responsive table>tbody>tr {
+	padding-bottom: 0;
+	display: table-row;
+	width: 100%
+}
+
+#block-system-main .view-content table>tbody>tr>td .views-field-field-faculty-profile-photo {
+	width: 30%;
+	float: left;
+	padding-right: 10px
+}
+
+#block-system-main .view-content table>tbody>tr>td>.views-field-title span {
+	font-size: 26px;
+	display: inline-block;
+	font-weight: 700;
+	padding: 25px 0
+}
+
+#block-system-main .view-content table>tbody>tr>td>.views-field-field-faculty-designation strong.field-content {
+	display: inline-block;
+	font-size: 17px;
+	color: #666;
+	padding: 0
+}
+
+#block-system-main .view-content table>tbody>tr>td>.views-field-field-faculty-department strong.views-label {
+	display: inline-block;
+	font-size: 17px;
+	color: #666;
+	padding: 0;
+	font-weight: 400
+}
+
+.views-field-nothing ul {
+	padding-left: 0
+}
+
+.views-field-nothing ul li {
+	float: left;
+	list-style: none
+}
+
+.views-field-nothing ul li:last-child {
+	float: right;
+	list-style: none
+}
+
+#block-system-main .view-content table>tbody>tr>td>.views-field-field-faculty-department .field-content {
+	display: inline-block
+}
+
+#block-quicktabs-degree-programs-bottom-tabs {
+	padding: 40px 0
+}
+
+#block-quicktabs-degree-programs-bottom-tabs .quicktabs-tabs {
+	border: none;
+	width: 90%
+}
+
+#block-quicktabs-degree-programs-bottom-tabs .quicktabs-tabs li {
+	float: left;
+	padding: 0 0 15px
+}
+
+.webform-container-inline div,
+.webform-container-inline div.form-item {
+	display: inline;
+	float: left;
+	margin: 0;
+	padding: 0 13px;
+	min-width: 30% !important;
+	margin-right: 5%;
+}
+
+.area,
+.image-card {
+	margin-bottom: 30px
+}
+
+.node-type-webform .tabs--primary,
+.node-type-webform article header {
+	display: none
+}
+
+h4.color-grey {
+	font-family: Montserrat;
+	font-weight: 500;
+	font-size: 26px;
+	color: #666;
+	margin-top: 30px
+}
+
+.image-card-content h3,
+h1.card-count {
+	font-family: 'PT Serif';
+	font-weight: 700
+}
+
+.image-card {
+	position: relative;
+	margin-top: 60px
+}
+
+.image-card-right .image-card-content {
+	right: 0;
+	background: #f8f7ed
+}
+
+.image-card-left .image-card-content {
+	left: 0;
+	background: #F3F3F3
+}
+
+.image-card-content {
+	padding: 50px;
+	max-width: 50%;
+	position: absolute;
+	bottom: 0
+}
+
+.image-card-img img {
+	width: 60%
+}
+
+h1.card-count {
+	font-size: 84px;
+	color: #F16E2F;
+	margin-top: -107px
+}
+
+.area-text,
+.image-card-content h3 {
+	font-style: normal;
+	line-height: normal;
+	color: #000
+}
+
+.image-card-content h3 {
+	font-size: 26px
+}
+
+.image-card-content a {
+	font-size: 17px;
+	font-weight: 600;
+	text-transform: uppercase
+}
+
+.bg-yellow {
+	background: #f8f7ed
+}
+
+.bg-grey {
+	background: #F3F3F3
+}
+
+.area-text {
+	font-family: Montserrat;
+	font-weight: 400;
+	font-size: 15px;
+	text-align: center;
+	text-transform: uppercase;
+	padding: 20px 10px;
+	min-height: 104px;
+	display: flex;
+	align-items: center;
+	justify-content: center
+}
+
+.area.area-full .area-text {
+	min-height: 100%
+}
+
+/* 22-11-2019 */
+html.js #webform-client-form-147 input.webform-calendar,
+html.js #webform-client-form-148 input.webform-calendar,
+html.js #webform-client-form-239 input.webform-calendar,
+html.js #webform-client-form-328 input.webform-calendar,
+html.js #webform-client-form-660 input.webform-calendar,
+html.js #webform-client-form-404 input.webform-calendar {
+	display: block !important;
+}
+#webform-client-form-147 .ui-datepicker,#webform-client-form-148 .ui-datepicker, #webform-client-form-239 .ui-datepicker, #webform-client-form-328 .ui-datepicker, #webform-client-form-404 .ui-datepicker {
+	width: auto !important;
+	padding: .2em .2em 0;
+}
+.page-node-147 #ui-datepicker-div, .page-node-148 #ui-datepicker-div, .page-node-239 #ui-datepicker-div, .page-node-328 #ui-datepicker-div, .page-node-404 #ui-datepicker-div {
+	width: auto !important;
+	padding: .2em .2em 0;
+}
+
+#webform-client-form-147 .form-item.form-item-submitted-birthdate-year.form-type-select.form-group,#webform-client-form-148 .form-item.form-item-submitted-birthdate-year.form-type-select.form-group,#webform-client-form-328 .form-item-submitted-year-of-graduation-year.form-type-select.form-group,#webform-client-form-404 .form-item-submitted-date-of-incident-year.form-type-select.form-group,
+#webform-client-form-328 .form-item-submitted-you-are-welcome-to-join-us-any-thursday-of-the-school-year-please-specify-which-year.form-type-select.form-group,#webform-client-form-660 .form-item.form-item-submitted-birth-year.form-type-select.form-group {
+	order: 4;
+}
+
+#webform-client-form-147 .form-item.form-item-submitted-birthdate-day.form-type-select.form-group,#webform-client-form-148 .form-item.form-item-submitted-birthdate-day.form-type-select.form-group,#webform-client-form-328 .form-item-submitted-year-of-graduation-month.form-type-select.form-group,#webform-client-form-404 .form-item.form-item-submitted-date-of-incident-day.form-type-select.form-group,
+#webform-client-form-328 .form-item-submitted-you-are-welcome-to-join-us-any-thursday-of-the-school-year-please-specify-which-day.form-type-select.form-group,#webform-client-form-660 .form-item.form-item-submitted-birth-day.form-type-select.form-group {
+	order: 3;
+}
+
+#webform-client-form-147 .webform-container-inline div,
+#webform-client-form-147 .webform-container-inline,
+#webform-client-form-148 .webform-container-inline div,
+#webform-client-form-148 .webform-container-inline,
+#webform-client-form-239 .webform-container-inline div,
+#webform-client-form-239 .webform-container-inline,
+#webform-client-form-328 .webform-container-inline div,
+#webform-client-form-328 .webform-container-inline,
+#webform-client-form-404 .webform-container-inline div,
+#webform-client-form-404 .webform-container-inline {
+	display: flex;
+	align-items: center;
+	width: 100%;
+	justify-content: space-evenly;
+}
+
+#webform-client-form-147 .form-item.form-item-submitted-birthdate-month.form-type-select.form-group,#webform-client-form-148 .form-item.form-item-submitted-birthdate-month.form-type-select.form-group,#webform-client-form-328 .form-item-submitted-year-of-graduation-day.form-type-select.form-group,#webform-client-form-404 .form-item.form-item-submitted-date-of-incident-month.form-type-select.form-group,
+#webform-client-form-328 .form-item-submitted-you-are-welcome-to-join-us-any-thursday-of-the-school-year-please-specify-which-month.form-type-select.form-group,#webform-client-form-660 .form-item.form-item-submitted-birth .form-type-select.form-group {
+	order: 2;
+}
+
+html.js #webform-client-form-147 input.webform-calendar,html.js #webform-client-form-148 input.webform-calendar,html.js #webform-client-form-239 input.webform-calendar,html.js #webform-client-form-328 input.webform-calendar,html.js #webform-client-form-404 input.webform-calendar {
+	display: flex !important;
+	order: 1;
+}
+#webform-client-form-147 .webform-container-inline div, .webform-container-inline div.form-item,#webform-client-form-148 .webform-container-inline div, .webform-container-inline div.form-item,#webform-client-form-239 .webform-container-inline div, .webform-container-inline div.form-item,#webform-client-form-328 .webform-container-inline div, .webform-container-inline div.form-item,#webform-client-form-404 .webform-container-inline div, .webform-container-inline div.form-item {
+	margin: 0;
+}
+html.js #webform-client-form-147 input.webform-calendar,html.js #webform-client-form-148 input.webform-calendar,html.js #webform-client-form-239 input.webform-calendar,html.js #webform-client-form-328 input.webform-calendar,html.js #webform-client-form-404 input.webform-calendar,html.js #webform-client-form-660 input.webform-calendar {
+	display: flex !important;
+	order: 1;
+	margin: 0 10px 0 0;
+}
+#webform-client-form-404 .form-item.form-item-submitted-date-of-incident-month.form-type-select.form-group,
+#webform-client-form-404 .form-item.form-item-submitted-date-of-incident-day.form-type-select.form-group,
+#webform-client-form-404 .form-item-submitted-date-of-incident-year.form-type-select.form-group,
+#webform-client-form-328 .form-item-submitted-year-of-graduation-month.form-type-select.form-group,
+#webform-client-form-328 .form-item-submitted-year-of-graduation-year.form-type-select.form-group,
+#webform-client-form-328 .form-item-submitted-you-are-welcome-to-join-us-any-thursday-of-the-school-year-please-specify-which-day.form-type-select.form-group,
+#webform-client-form-328 .form-item-submitted-you-are-welcome-to-join-us-any-thursday-of-the-school-year-please-specify-which-year.form-type-select.form-group {
+margin-left: 12px !important;
+}
+
+#webform-client-form-239 .form-item-submitted-expected-move-in-date-month.form-type-select.form-group{
+  order: 3;
+}
+#webform-client-form-239 .form-item-submitted-expected-move-in-date-day.form-type-select.form-group{
+  order: 2;
+  margin-right: 20px;
+}
+#webform-client-form-404 .form-item-submitted-time-of-incident-hour.form-type-select.form-group {
+margin-left: 40px !important;
+}
+/* 22-11-2019 */
+
+/* Start 27-11-2019 */
+#webform-client-form-328 .form-item-submitted-you-are-welcome-to-join-us-any-thursday-of-the-school-year-please-specify-which.form-type-date.form-group, #webform-client-form-328 .form-item.webform-component.webform-component-date.webform-component--year-of-graduation.form-group.form-item.form-item-submitted-year-of-graduation.form-type-date.form-group{
+    font-size: 13px;
+}
+/* End 27-11-2019 */
+
+/* Start 31-12-2019 */
+#webform-client-form-660 .webform-datepicker .form-item-submitted-birth-month, #webform-client-form-660 .webform-datepicker .form-item-submitted-birth-day, #webform-client-form-660 .webform-datepicker.form-item-submitted-birth-year {
+  width: 33% !important;
+  display: inline-block !important;
+  margin-right: 12px !important;
+}
+/* END 31-12-2019*/
+
+
+/* Start 16-01-2020 */
+.node-type-inside-rit .field.field-name-body,.node-type-degree-programs .field.field-name-body,.node-type-admissions .field.field-name-body{width: 100% !important;}
+#navbar-collapse #nice-menu-2 li:hover ul {
+display: block !important;
+visibility: visible !important;
+}
+/* End 16-01-2020 */
+@media(max-width:1600px) {
+	.image-card-content {
+		padding: 30px;
+		max-width: 70%
+	}
+	.image-card-img img {
+		width: 70%
+	}
+}
+
+@media(max-width:1199px) {
+	.image-card-content {
+		position: static;
+		max-width: 100%
+	}
+	.image-card-img img {
+		width: 100%
+	}
+	h1.card-count {
+		margin-top: -88px
+	}
+}
+
+@media(min-width:768px) {
+	.equal-height {
+		display: flex;
+		display: -ms-flexbox
+	}
+	.no-pad-right {
+		padding-right: 0!important
+	}
+	.no-pad-left {
+		padding-left: 0!important
+	}
+}

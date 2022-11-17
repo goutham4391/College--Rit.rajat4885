@@ -1,0 +1,83 @@
+ul.nice-menu-down .menuparent a, ul.nice-menu-down .menuparent span {    color: #f36e21;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: 1px;
+    text-transform: uppercase;}
+
+  ul.nice-menu-down li {
+    padding: 20px 8px 15px 20px !important;
+        background-color: transparent;
+        border: none;
+    }
+
+    
+
+    ul.nice-menu span {
+        display: block;
+        color: #f26e24;
+        font-weight: 600;
+        
+    }
+
+    ul.nice-menu-down li a, ul.nice-menu-down li span {
+        color: #f36e21;
+        font-weight: 700 !important;
+        line-height: 20px;
+        letter-spacing: 0px !important;
+        text-transform: uppercase;
+        display: inline-block;
+        padding: 0.3em 5px 0.3em 5px;
+        font-size: 16px;
+    }
+
+    ul.nice-menu-down li a:hover, ul.nice-menu-down li span:hover {
+        color: #000;
+       
+    }
+
+    ul.nice-menu-down li span { cursor: pointer;  padding-right: 15px;}
+    
+    ul.nice-menu-down li > ul > li  {
+        
+        background-color: #fff;
+    }
+
+
+    ul.nice-menu-down li > ul > li a {text-transform: capitalize !important; padding:  0px !important; }
+
+    ul.nice-menu ul {
+        top: calc(5.7em - 7px);
+        left: -1px;
+        border: 0;
+        border-top: 1px solid #ccc;
+        margin-right: 0;
+    }
+
+    ul.nice-menu-down li.menuparent:hover {
+        background: #ccc url(../../../../all/modules/nice_menus/images/arrow-down.png) right center no-repeat;
+    }
+    /* #navbar-collapse #nice-menu-2 ul{top: 75px;padding: 20px 10px !important;} */
+    #navbar-collapse #nice-menu-2{margin-top: 7px;}
+    /* ul.nice-menu-down li.menuparent{background-position-x: calc(100% - 15px);} */
+
+    @media only screen and (max-width: 1366px){
+        
+    }
+    @media only screen and (max-width: 1280px){
+        
+        #navbar-collapse #nice-menu-2 li ul li { width: 280px; }
+        
+    }
+    @media only screen and (max-width:1199px){
+         
+    #navbar-collapse #nice-menu-2 li ul li { width: 280px; }
+    }
+    @media only screen and (max-width: 1152px){
+          
+        #navbar-collapse #nice-menu-2 li ul li { width: 280px; } 
+        
+    }
+    @media only screen and (max-width: 1024px){
+        
+        #navbar-collapse #nice-menu-2 li ul li { width: 280px; }
+     }

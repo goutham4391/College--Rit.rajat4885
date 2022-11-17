@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.www.rit.edu	TRUE	/dubai/	FALSE	1999999999	SSESS23b8f294e8bcdc4fc8d2e76b2cbd6d35	yTWI8XClSb3HS68XMXrWOkb6WhCb2l_FSNzM_Vikhz8
+
